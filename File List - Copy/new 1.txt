@@ -1,0 +1,3479 @@
+Action 10:35:06: INSTALL. 
+1: MySQL Server 5.7 2: {02BC6096-C48E-496B-8342-D5AD672AC4AF} 
+Action 10:35:06: FindRelatedProducts. Searching for related applications
+Action 10:35:06: AppSearch. Searching for installed applications
+Action 10:35:06: LaunchConditions. Evaluating launch conditions
+Action 10:35:06: ValidateProductID. 
+Action 10:35:06: CostInitialize. Computing space requirements
+Action 10:35:06: FileCost. Computing space requirements
+Action 10:35:06: CostFinalize. Computing space requirements
+Action 10:35:06: MigrateFeatureStates. Migrating feature states from related applications
+Action 10:35:06: InstallValidate. Validating install
+Min: 0 Max: 4030
+Position: 25
+Position: 50
+Position: 75
+Position: 100
+Position: 125
+Position: 150
+Position: 175
+Position: 200
+Position: 225
+Position: 250
+Position: 275
+Position: 300
+Position: 325
+Position: 350
+Position: 375
+Position: 400
+Position: 425
+Position: 450
+Position: 475
+Position: 500
+Position: 525
+Position: 550
+Position: 575
+Position: 600
+Position: 625
+Position: 650
+Position: 675
+Position: 700
+Position: 725
+Position: 750
+Position: 775
+Position: 800
+Position: 825
+Position: 850
+Position: 875
+Position: 900
+Position: 925
+Position: 950
+Position: 975
+Position: 1000
+Position: 1025
+Position: 1050
+Position: 1075
+Position: 1100
+Position: 1125
+Position: 1150
+Position: 1175
+Position: 1200
+Position: 1225
+Position: 1250
+Position: 1275
+Position: 1300
+Position: 1325
+Position: 1350
+Position: 1375
+Position: 1400
+Position: 1425
+Position: 1450
+Position: 1475
+Position: 1500
+Position: 1525
+Position: 1550
+Position: 1575
+Position: 1600
+Position: 1625
+Position: 1650
+Position: 1675
+Position: 1700
+Position: 1725
+Position: 1750
+Position: 1775
+Position: 1800
+Position: 1825
+Position: 1850
+Position: 1875
+Position: 1900
+Position: 1925
+Position: 1950
+Position: 1975
+Position: 2000
+Position: 2025
+Position: 2050
+Position: 2075
+Position: 2100
+Position: 2125
+Position: 2150
+Position: 2175
+Position: 2200
+Position: 2225
+Position: 2250
+Position: 2275
+Position: 2300
+Position: 2325
+Position: 2350
+Position: 2375
+Position: 2400
+Position: 2425
+Position: 2450
+Position: 2475
+Position: 2500
+Position: 2525
+Position: 2550
+Position: 2575
+Position: 2600
+Position: 2625
+Position: 2650
+Position: 2675
+Position: 2700
+Position: 2725
+Position: 2750
+Position: 2775
+Position: 2800
+Position: 2825
+Position: 2850
+Position: 2875
+Position: 2900
+Position: 2925
+Position: 2950
+Position: 2975
+Position: 3000
+Position: 3000
+Position: 3000
+Action 10:35:07: SaveTargetDir. 
+Action 10:35:07: InstallInitialize. 
+Action 10:35:07: RemoveExistingProducts. Removing applications
+Action 10:35:07: ProcessComponents. Updating component registration
+Position: 3000
+Action 10:35:08: GenerateScript. Generating script operations for action:
+Position: 3001
+Position: 3002
+Updating component registration
+DoStep
+Position: 3003
+Position: 3004
+Position: 3005
+Position: 3006
+Position: 3007
+Position: 3008
+Position: 3009
+Position: 3010
+Position: 3011
+Position: 3012
+Position: 3013
+Position: 3014
+Position: 3015
+Position: 3016
+Position: 3017
+Position: 3018
+Position: 3019
+Position: 3020
+Position: 3021
+Position: 3022
+Position: 3023
+Position: 3024
+Position: 3025
+Position: 3026
+Position: 3027
+Position: 3028
+Position: 3029
+Position: 3030
+Position: 3031
+Position: 3032
+Position: 3033
+Position: 3034
+Position: 3035
+Position: 3036
+Position: 3037
+Position: 3038
+Position: 3039
+Position: 3040
+Position: 3041
+Position: 3042
+Position: 3043
+Position: 3044
+Position: 3045
+Position: 3046
+Position: 3047
+Position: 3048
+Position: 3049
+Position: 3050
+Position: 3051
+Position: 3052
+Position: 3053
+Position: 3054
+Position: 3055
+Position: 3056
+Position: 3057
+Position: 3058
+Position: 3059
+Position: 3060
+Position: 3061
+Position: 3062
+Position: 3063
+Position: 3064
+Position: 3065
+Position: 3066
+Position: 3067
+Position: 3068
+Position: 3069
+Position: 3070
+Position: 3071
+Position: 3072
+Position: 3073
+Position: 3074
+Position: 3075
+Position: 3076
+Position: 3077
+Position: 3078
+Position: 3079
+Position: 3080
+Position: 3081
+Position: 3082
+Position: 3083
+Position: 3084
+Position: 3085
+Position: 3086
+Position: 3087
+Position: 3088
+Position: 3089
+Position: 3090
+Position: 3091
+Position: 3092
+Position: 3093
+Position: 3094
+Position: 3095
+Position: 3096
+Position: 3097
+Position: 3098
+Position: 3099
+Position: 3100
+Position: 3101
+Position: 3102
+Position: 3103
+Position: 3104
+Position: 3105
+Position: 3106
+Position: 3107
+Position: 3108
+Position: 3109
+Position: 3110
+Position: 3111
+Position: 3112
+Position: 3113
+Position: 3114
+Position: 3115
+Position: 3116
+Position: 3117
+Position: 3118
+Position: 3119
+Position: 3120
+Position: 3121
+Action 10:35:08: UnpublishFeatures. Unpublishing Product Features
+Action 10:35:08: RemoveRegistryValues. Removing system registry values
+Action 10:35:08: RemoveShortcuts. Removing shortcuts
+Action 10:35:08: RemoveFiles. Removing files
+Action 10:35:08: InstallFiles. Copying new files
+File: Copying new files,  Directory: ,  Size: 
+DoStep
+Position: 3122
+Position: 3123
+Position: 3124
+Position: 3125
+Position: 3126
+Position: 3127
+Position: 3128
+Position: 3129
+Position: 3130
+Position: 3131
+Position: 3132
+Position: 3133
+Position: 3134
+Position: 3135
+Position: 3136
+Position: 3137
+Position: 3138
+Position: 3139
+Position: 3140
+Position: 3141
+Position: 3142
+Position: 3143
+Position: 3144
+Position: 3145
+Position: 3146
+Position: 3147
+Position: 3148
+Position: 3149
+Position: 3150
+Position: 3151
+Position: 3152
+Position: 3153
+Position: 3154
+Position: 3155
+Position: 3156
+Position: 3157
+Position: 3158
+Position: 3159
+Position: 3160
+Position: 3161
+Position: 3162
+Position: 3163
+Position: 3164
+Position: 3165
+Position: 3166
+Position: 3167
+Position: 3168
+Position: 3169
+Position: 3170
+Position: 3171
+Position: 3172
+Position: 3173
+Position: 3174
+Position: 3175
+Position: 3176
+Position: 3177
+Position: 3178
+Position: 3179
+Position: 3180
+Position: 3181
+Position: 3182
+Position: 3183
+Position: 3184
+Position: 3185
+Position: 3186
+Position: 3187
+Position: 3188
+Position: 3189
+Position: 3190
+Position: 3191
+Position: 3192
+Position: 3193
+Position: 3194
+Position: 3195
+Position: 3196
+Position: 3197
+Position: 3198
+Position: 3199
+Position: 3200
+Position: 3201
+Position: 3202
+Position: 3203
+Position: 3204
+Position: 3205
+Position: 3206
+Position: 3207
+Position: 3208
+Position: 3209
+Position: 3210
+Position: 3211
+Position: 3212
+Position: 3213
+Position: 3214
+Position: 3215
+Position: 3216
+Position: 3217
+Position: 3218
+Position: 3219
+Position: 3220
+Position: 3221
+Position: 3222
+Position: 3223
+Position: 3224
+Position: 3225
+Position: 3226
+Position: 3227
+Position: 3228
+Position: 3229
+Position: 3230
+Position: 3231
+Position: 3232
+Position: 3233
+Position: 3234
+Position: 3235
+Position: 3236
+Position: 3237
+Position: 3238
+Position: 3239
+Position: 3240
+Position: 3241
+Position: 3242
+Position: 3243
+Position: 3244
+Position: 3245
+Position: 3246
+Position: 3247
+Position: 3248
+Position: 3249
+Position: 3250
+Position: 3251
+Position: 3252
+Position: 3253
+Position: 3254
+Position: 3255
+Position: 3256
+Position: 3257
+Position: 3258
+Position: 3259
+Position: 3260
+Position: 3261
+Position: 3262
+Position: 3263
+Position: 3264
+Position: 3265
+Position: 3266
+Position: 3267
+Position: 3268
+Position: 3269
+Position: 3270
+Position: 3271
+Position: 3272
+Position: 3273
+Position: 3274
+Position: 3275
+Position: 3276
+Position: 3277
+Position: 3278
+Position: 3279
+Position: 3280
+Position: 3281
+Position: 3282
+Position: 3283
+Position: 3284
+Position: 3285
+Position: 3286
+Position: 3287
+Position: 3288
+Position: 3289
+Position: 3290
+Position: 3291
+Position: 3292
+Position: 3293
+Position: 3294
+Position: 3295
+Position: 3296
+Position: 3297
+Position: 3298
+Position: 3299
+Position: 3300
+Position: 3301
+Position: 3302
+Position: 3303
+Position: 3304
+Position: 3305
+Position: 3306
+Position: 3307
+Position: 3308
+Position: 3309
+Position: 3310
+Position: 3311
+Position: 3312
+Position: 3313
+Position: 3314
+Position: 3315
+Position: 3316
+Position: 3317
+Position: 3318
+Position: 3319
+Position: 3320
+Position: 3321
+Position: 3322
+Position: 3323
+Position: 3324
+Position: 3325
+Position: 3326
+Position: 3327
+Position: 3328
+Position: 3329
+Position: 3330
+Position: 3331
+Position: 3332
+Position: 3333
+Position: 3334
+Position: 3335
+Position: 3336
+Position: 3337
+Position: 3338
+Position: 3339
+Position: 3340
+Position: 3341
+Position: 3342
+Position: 3343
+Position: 3344
+Position: 3345
+Position: 3346
+Position: 3347
+Position: 3348
+Position: 3349
+Position: 3350
+Position: 3351
+Position: 3352
+Position: 3353
+Position: 3354
+Position: 3355
+Position: 3356
+Position: 3357
+Position: 3358
+Position: 3359
+Position: 3360
+Position: 3361
+Position: 3362
+Position: 3363
+Position: 3364
+Position: 3365
+Position: 3366
+Position: 3367
+Position: 3368
+Position: 3369
+Position: 3370
+Position: 3371
+Position: 3372
+Position: 3373
+Position: 3374
+Position: 3375
+Position: 3376
+Position: 3377
+Position: 3378
+Position: 3379
+Position: 3380
+Position: 3381
+Position: 3382
+Position: 3383
+Position: 3384
+Position: 3385
+Position: 3386
+Position: 3387
+Position: 3388
+Position: 3389
+Position: 3390
+Position: 3391
+Position: 3392
+Position: 3393
+Position: 3394
+Position: 3395
+Position: 3396
+Position: 3397
+Position: 3398
+Position: 3399
+Position: 3400
+Position: 3401
+Position: 3402
+Position: 3403
+Position: 3404
+Position: 3405
+Position: 3406
+Position: 3407
+Position: 3408
+Position: 3409
+Position: 3410
+Position: 3411
+Position: 3412
+Position: 3413
+Position: 3414
+Position: 3415
+Position: 3416
+Position: 3417
+Position: 3418
+Position: 3419
+Position: 3420
+Position: 3421
+Position: 3422
+Position: 3423
+Position: 3424
+Position: 3425
+Position: 3426
+Position: 3427
+Position: 3428
+Position: 3429
+Position: 3430
+Position: 3431
+Position: 3432
+Position: 3433
+Position: 3434
+Position: 3435
+Position: 3436
+Position: 3437
+Position: 3438
+Position: 3439
+Position: 3440
+Position: 3441
+Position: 3442
+Position: 3443
+Position: 3444
+Position: 3445
+Position: 3446
+Position: 3447
+Position: 3448
+Position: 3449
+Position: 3450
+Position: 3451
+Position: 3452
+Position: 3453
+Position: 3454
+Position: 3455
+Position: 3456
+Position: 3457
+Position: 3458
+Position: 3459
+Position: 3460
+Position: 3461
+Position: 3462
+Position: 3463
+Position: 3464
+Position: 3465
+Position: 3466
+Position: 3467
+Position: 3468
+Position: 3469
+Position: 3470
+Position: 3471
+Position: 3472
+Position: 3473
+Position: 3474
+Position: 3475
+Position: 3476
+Position: 3477
+Position: 3478
+Position: 3479
+Position: 3480
+Position: 3481
+Position: 3482
+Position: 3483
+Position: 3484
+Position: 3485
+Position: 3486
+Position: 3487
+Position: 3488
+Position: 3489
+Position: 3490
+Position: 3491
+Position: 3492
+Position: 3493
+Position: 3494
+Position: 3495
+Position: 3496
+Position: 3497
+Position: 3498
+Position: 3499
+Position: 3500
+Position: 3501
+Position: 3502
+Position: 3503
+Position: 3504
+Position: 3505
+Action 10:35:10: RunPostInstallProperty. 
+Action 10:35:10: RunPostInstall. 
+
+DoStep
+Position: 3506
+Position: 3507
+Action 10:35:10: CreateShortcuts. Creating shortcuts
+Shortcut: Creating shortcuts
+DoStep
+Position: 3508
+Position: 3509
+Position: 3510
+Position: 3511
+Position: 3512
+Position: 3513
+Action 10:35:10: WriteRegistryValues. Writing system registry values
+Key: Writing system registry values, Name: , Value: 
+DoStep
+Position: 3514
+Position: 3515
+Position: 3516
+Position: 3517
+Position: 3518
+Position: 3519
+Position: 3520
+Position: 3521
+Position: 3522
+Position: 3523
+Position: 3524
+Position: 3525
+Position: 3526
+Action 10:35:10: RegisterUser. Registering user
+Action 10:35:10: RegisterProduct. Registering product
+Registering product
+DoStep
+Position: 3527
+Position: 3528
+Position: 3529
+Position: 3530
+Position: 3531
+Action 10:35:10: PublishFeatures. Publishing Product Features
+Feature: Publishing Product Features
+DoStep
+Position: 3532
+Position: 3533
+Position: 3534
+Position: 3535
+Position: 3536
+Position: 3537
+Position: 3538
+Position: 3539
+Position: 3540
+Position: 3541
+Position: 3542
+Position: 3543
+Position: 3544
+Action 10:35:10: PublishProduct. Publishing product information
+Position: 3545
+Position: 3546
+Position: 3547
+Position: 3548
+Position: 3549
+Position: 3550
+Position: 3551
+Position: 3552
+Action 10:35:10: InstallFinalize. 
+Min: 0 Max: 569242143
+Position: 569242143
+Action 10:35:10: ProcessComponents. Updating component registration
+Step: 24000
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Action 10:35:11: InstallFiles. Copying new files
+File: innochecksum.exe,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\bin\,  Size: 6424576
+Position: 6424576
+File: libmecab.dll,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\bin\,  Size: 1839104
+Position: 8263680
+File: lz4_decompress.exe,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\bin\,  Size: 356864
+Position: 8620544
+File: my_print_defaults.exe,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\bin\,  Size: 5847040
+Position: 14467584
+File: myisam_ftdump.exe,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\bin\,  Size: 6167552
+Position: 20635136
+File: myisamchk.exe,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\bin\,  Size: 6287872
+Position: 26923008
+File: myisamlog.exe,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\bin\,  Size: 4809728
+Position: 31732736
+File: myisampack.exe,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\bin\,  Size: 6198784
+Position: 37931520
+File: mysql.exe,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\bin\,  Size: 7017984
+Position: 44949504
+File: mysql_config.pl,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\bin\,  Size: 6700
+Position: 44956204
+File: mysql_config_editor.exe,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\bin\,  Size: 5870080
+Position: 50826284
+File: mysql_embedded.exe,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\bin\,  Size: 26923008
+Position: 77749292
+File: mysql_plugin.exe,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\bin\,  Size: 5867008
+Position: 83616300
+File: mysql_secure_installation.exe,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\bin\,  Size: 6884352
+Position: 90500652
+File: mysql_ssl_rsa_setup.exe,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\bin\,  Size: 6368768
+Position: 96869420
+File: mysql_tzinfo_to_sql.exe,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\bin\,  Size: 4478976
+Position: 101348396
+File: mysql_upgrade.exe,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\bin\,  Size: 8062976
+Position: 109411372
+File: mysqladmin.exe,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\bin\,  Size: 6899200
+Position: 116310572
+File: mysqlbinlog.exe,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\bin\,  Size: 7197696
+Position: 123508268
+File: mysqlcheck.exe,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\bin\,  Size: 6928384
+Position: 130436652
+File: mysqld.exe,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\bin\,  Size: 41231872
+Position: 171668524
+File: mysqld_multi.pl,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\bin\,  Size: 27291
+Position: 171695815
+File: mysqldump.exe,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\bin\,  Size: 6967808
+Position: 178663623
+File: mysqldumpslow.pl,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\bin\,  Size: 7028
+Position: 178670651
+File: mysqlimport.exe,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\bin\,  Size: 6887424
+Position: 185558075
+File: mysqlpump.exe,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\bin\,  Size: 7984128
+Position: 193542203
+File: mysqlshow.exe,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\bin\,  Size: 6885376
+Position: 200427579
+File: mysqlslap.exe,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\bin\,  Size: 6916096
+Position: 207343675
+File: mysqlxtest.exe,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\bin\,  Size: 9830400
+Position: 217174075
+File: perror.exe,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\bin\,  Size: 6015488
+Position: 223189563
+File: resolveip.exe,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\bin\,  Size: 5845504
+Position: 229035067
+File: zlib_decompress.exe,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\bin\,  Size: 308736
+Position: 229343803
+File: ChangeLog,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\docs\,  Size: 75698
+Position: 229419501
+File: INFO_SRC,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\docs\,  Size: 184
+Position: 229419685
+File: big_endian.h,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\include\,  Size: 3053
+Position: 229422738
+File: binary_log_types.h,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\include\,  Size: 1367
+Position: 229424105
+File: byte_order_generic.h,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\include\,  Size: 1954
+Position: 229426059
+File: byte_order_generic_x86.h,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\include\,  Size: 1589
+Position: 229427648
+File: decimal.h,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\include\,  Size: 4575
+Position: 229432223
+File: errmsg.h,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\include\,  Size: 3750
+Position: 229435973
+File: keycache.h,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\include\,  Size: 6889
+Position: 229442862
+File: little_endian.h,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\include\,  Size: 2632
+Position: 229445494
+File: m_ctype.h,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\include\,  Size: 33682
+Position: 229479176
+File: m_string.h,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\include\,  Size: 10120
+Position: 229489296
+File: my_alloc.h,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\include\,  Size: 1712
+Position: 229491008
+File: my_byteorder.h,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\include\,  Size: 4888
+Position: 229495896
+File: my_command.h,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\include\,  Size: 1097
+Position: 229496993
+File: my_compiler.h,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\include\,  Size: 4530
+Position: 229501523
+File: my_config.h,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\include\,  Size: 12685
+Position: 229514208
+File: my_dbug.h,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\include\,  Size: 8791
+Position: 229522999
+File: my_dir.h,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\include\,  Size: 2412
+Position: 229525411
+File: my_getopt.h,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\include\,  Size: 5853
+Position: 229531264
+File: my_global.h,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\include\,  Size: 21810
+Position: 229553074
+File: my_list.h,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\include\,  Size: 906
+Position: 229553980
+File: my_sys.h,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\include\,  Size: 38702
+Position: 229592682
+File: my_thread.h,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\include\,  Size: 4082
+Position: 229596764
+File: my_thread_local.h,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\include\,  Size: 1966
+Position: 229598730
+File: my_xml.h,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\include\,  Size: 2216
+Position: 229600946
+File: client_authentication.h,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\include\mysql\,  Size: 477
+Position: 229601423
+File: client_plugin.h,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\include\mysql\,  Size: 5860
+Position: 229607283
+File: client_plugin.h.pp,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\include\mysql\,  Size: 1988
+Position: 229609271
+File: com_data.h,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\include\mysql\,  Size: 2507
+Position: 229611778
+File: get_password.h,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\include\mysql\,  Size: 598
+Position: 229612376
+File: group_replication_priv.h,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\include\mysql\,  Size: 4023
+Position: 229616399
+File: mysql.h,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\include\,  Size: 28572
+Position: 229644971
+File: innodb_priv.h,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\include\mysql\,  Size: 1563
+Position: 229646534
+File: mysql_lex_string.h,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\include\mysql\,  Size: 496
+Position: 229647030
+File: plugin.h,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\include\mysql\,  Size: 25501
+Position: 229672531
+File: plugin_audit.h,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\include\mysql\,  Size: 16942
+Position: 229689473
+File: plugin_audit.h.pp,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\include\mysql\,  Size: 13897
+Position: 229703370
+File: plugin_auth.h,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\include\mysql\,  Size: 4763
+Position: 229708133
+File: plugin_auth.h.pp,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\include\mysql\,  Size: 5147
+Position: 229713280
+File: plugin_auth_common.h,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\include\mysql\,  Size: 4246
+Position: 229717526
+File: plugin_ftparser.h,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\include\mysql\,  Size: 7044
+Position: 229724570
+File: plugin_ftparser.h.pp,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\include\mysql\,  Size: 4871
+Position: 229729441
+File: plugin_group_replication.h,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\include\mysql\,  Size: 5074
+Position: 229734515
+File: plugin_keyring.h,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\include\mysql\,  Size: 3141
+Position: 229737656
+File: plugin_keyring.h.pp,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\include\mysql\,  Size: 4258
+Position: 229741914
+File: plugin_trace.h,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\include\mysql\,  Size: 11550
+Position: 229753464
+File: plugin_validate_password.h,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\include\mysql\,  Size: 983
+Position: 229754447
+File: mysql_file.h,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\include\mysql\psi\,  Size: 38770
+Position: 229793217
+File: mysql_idle.h,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\include\mysql\psi\,  Size: 2005
+Position: 229795222
+File: mysql_mdl.h,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\include\mysql\psi\,  Size: 2724
+Position: 229797946
+File: mysql_memory.h,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\include\mysql\psi\,  Size: 1094
+Position: 229799040
+File: mysql_ps.h,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\include\mysql\psi\,  Size: 2559
+Position: 229801599
+File: mysql_socket.h,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\include\mysql\psi\,  Size: 32654
+Position: 229834253
+File: mysql_sp.h,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\include\mysql\psi\,  Size: 2247
+Position: 229836500
+File: mysql_stage.h,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\include\mysql\psi\,  Size: 4201
+Position: 229840701
+File: mysql_statement.h,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\include\mysql\psi\,  Size: 6028
+Position: 229846729
+File: mysql_table.h,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\include\mysql\psi\,  Size: 3456
+Position: 229850185
+File: mysql_thread.h,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\include\mysql\psi\,  Size: 32719
+Position: 229882904
+File: mysql_transaction.h,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\include\mysql\psi\,  Size: 6238
+Position: 229889142
+File: psi.h,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\include\mysql\psi\,  Size: 85230
+Position: 229974372
+File: psi_base.h,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\include\mysql\psi\,  Size: 2900
+Position: 229977272
+File: psi_memory.h,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\include\mysql\psi\,  Size: 3491
+Position: 229980763
+File: service_command.h,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\include\mysql\,  Size: 12858
+Position: 229993621
+File: service_locking.h,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\include\mysql\,  Size: 3744
+Position: 229997365
+File: service_my_plugin_log.h,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\include\mysql\,  Size: 1054
+Position: 229998419
+File: service_my_snprintf.h,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\include\mysql\,  Size: 2809
+Position: 230001228
+File: service_mysql_alloc.h,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\include\mysql\,  Size: 2160
+Position: 230003388
+File: service_mysql_keyring.h,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\include\mysql\,  Size: 1854
+Position: 230005242
+File: service_mysql_password_policy.h,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\include\mysql\,  Size: 1836
+Position: 230007078
+File: service_mysql_string.h,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\include\mysql\,  Size: 4755
+Position: 230011833
+File: service_parser.h,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\include\mysql\,  Size: 8790
+Position: 230020623
+File: service_rpl_transaction_ctx.h,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\include\mysql\,  Size: 1761
+Position: 230022384
+File: service_rpl_transaction_write_set.h,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\include\mysql\,  Size: 1920
+Position: 230024304
+File: service_rules_table.h,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\include\mysql\,  Size: 4475
+Position: 230028779
+File: service_security_context.h,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\include\mysql\,  Size: 3458
+Position: 230032237
+File: service_srv_session.h,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\include\mysql\,  Size: 4276
+Position: 230036513
+File: service_srv_session_info.h,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\include\mysql\,  Size: 4622
+Position: 230041135
+File: service_ssl_wrapper.h,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\include\mysql\,  Size: 4549
+Position: 230045684
+File: service_thd_alloc.h,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\include\mysql\,  Size: 3731
+Position: 230049415
+File: service_thd_engine_lock.h,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\include\mysql\,  Size: 889
+Position: 230050304
+File: service_thd_wait.h,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\include\mysql\,  Size: 3345
+Position: 230053649
+File: service_thread_scheduler.h,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\include\mysql\,  Size: 2092
+Position: 230055741
+File: services.h,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\include\mysql\,  Size: 1348
+Position: 230057089
+File: services.h.pp,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\include\mysql\,  Size: 21953
+Position: 230079042
+File: thread_pool_priv.h,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\include\mysql\,  Size: 5542
+Position: 230084584
+File: thread_type.h,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\include\mysql\,  Size: 780
+Position: 230085364
+File: mysql_com.h,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\include\,  Size: 23866
+Position: 230109230
+File: mysql_com_server.h,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\include\,  Size: 713
+Position: 230109943
+File: mysql_embed.h,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\include\,  Size: 542
+Position: 230110485
+File: mysql_time.h,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\include\,  Size: 1588
+Position: 230112073
+File: mysql_version.h,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\include\,  Size: 1088
+Position: 230113161
+File: mysqld_ername.h,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\include\,  Size: 119932
+Position: 230233093
+File: mysqld_error.h,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\include\,  Size: 44452
+Position: 230277545
+File: plugin.h,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\include\,  Size: 25501
+Position: 230303046
+File: plugin_audit.h,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\include\,  Size: 16942
+Position: 230319988
+File: plugin_ftparser.h,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\include\,  Size: 7044
+Position: 230327032
+File: plugin_group_replication.h,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\include\,  Size: 5074
+Position: 230332106
+File: plugin_keyring.h,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\include\,  Size: 3141
+Position: 230335247
+File: plugin_validate_password.h,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\include\,  Size: 983
+Position: 230336230
+File: sql_common.h,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\include\,  Size: 7102
+Position: 230343332
+File: sql_state.h,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\include\,  Size: 15157
+Position: 230358489
+File: sslopt-case.h,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\include\,  Size: 1622
+Position: 230360111
+File: sslopt-longopts.h,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\include\,  Size: 2278
+Position: 230362389
+File: sslopt-vars.h,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\include\,  Size: 2284
+Position: 230364673
+File: thr_cond.h,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\include\,  Size: 4548
+Position: 230369221
+File: thr_mutex.h,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\include\,  Size: 5079
+Position: 230374300
+File: thr_rwlock.h,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\include\,  Size: 5444
+Position: 230379744
+File: typelib.h,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\include\,  Size: 1678
+Position: 230381422
+File: libmysql.dll,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\lib\,  Size: 6868992
+Position: 237250414
+File: libmysql.lib,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\lib\,  Size: 26956
+Position: 237277370
+File: char.bin,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\lib\mecab\dic\ipadic_euc-jp\,  Size: 262496
+Position: 237539866
+File: dicrc,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\lib\mecab\dic\ipadic_euc-jp\,  Size: 693
+Position: 237540559
+File: left-id.def,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\lib\mecab\dic\ipadic_euc-jp\,  Size: 55910
+Position: 237596469
+File: matrix.bin,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\lib\mecab\dic\ipadic_euc-jp\,  Size: 3463716
+Position: 241060185
+File: pos-id.def,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\lib\mecab\dic\ipadic_euc-jp\,  Size: 1477
+Position: 241061662
+File: rewrite.def,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\lib\mecab\dic\ipadic_euc-jp\,  Size: 6241
+Position: 241067903
+File: right-id.def,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\lib\mecab\dic\ipadic_euc-jp\,  Size: 55910
+Position: 241123813
+File: sys.dic,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\lib\mecab\dic\ipadic_euc-jp\,  Size: 37779919
+Position: 278903732
+File: unk.dic,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\lib\mecab\dic\ipadic_euc-jp\,  Size: 5409
+Position: 278909141
+File: char.bin,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\lib\mecab\dic\ipadic_sjis\,  Size: 262496
+Position: 279171637
+File: dicrc,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\lib\mecab\dic\ipadic_sjis\,  Size: 693
+Position: 279172330
+File: left-id.def,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\lib\mecab\dic\ipadic_sjis\,  Size: 55910
+Position: 279228240
+File: matrix.bin,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\lib\mecab\dic\ipadic_sjis\,  Size: 3463716
+Position: 282691956
+File: pos-id.def,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\lib\mecab\dic\ipadic_sjis\,  Size: 1477
+Position: 282693433
+File: rewrite.def,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\lib\mecab\dic\ipadic_sjis\,  Size: 6241
+Position: 282699674
+File: right-id.def,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\lib\mecab\dic\ipadic_sjis\,  Size: 55910
+Position: 282755584
+File: sys.dic,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\lib\mecab\dic\ipadic_sjis\,  Size: 37635899
+Position: 320391483
+File: unk.dic,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\lib\mecab\dic\ipadic_sjis\,  Size: 5409
+Position: 320396892
+File: char.bin,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\lib\mecab\dic\ipadic_utf-8\,  Size: 262496
+Position: 320659388
+File: dicrc,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\lib\mecab\dic\ipadic_utf-8\,  Size: 693
+Position: 320660081
+File: left-id.def,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\lib\mecab\dic\ipadic_utf-8\,  Size: 55910
+Position: 320715991
+File: matrix.bin,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\lib\mecab\dic\ipadic_utf-8\,  Size: 3463716
+Position: 324179707
+File: pos-id.def,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\lib\mecab\dic\ipadic_utf-8\,  Size: 1477
+Position: 324181184
+File: rewrite.def,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\lib\mecab\dic\ipadic_utf-8\,  Size: 6241
+Position: 324187425
+File: right-id.def,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\lib\mecab\dic\ipadic_utf-8\,  Size: 55910
+Position: 324243335
+File: sys.dic,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\lib\mecab\dic\ipadic_utf-8\,  Size: 49199027
+Position: 373442362
+File: unk.dic,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\lib\mecab\dic\ipadic_utf-8\,  Size: 5690
+Position: 373448052
+File: mecabrc,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\lib\mecab\etc\,  Size: 399
+Position: 373448451
+File: mysqlclient.lib,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\lib\,  Size: 45335522
+Position: 418783973
+File: adt_null.dll,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\lib\plugin\,  Size: 216576
+Position: 419000549
+File: audit_log.dll,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\lib\plugin\,  Size: 1024512
+Position: 420025061
+File: authentication_windows.dll,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\lib\plugin\,  Size: 351744
+Position: 420376805
+File: firewall.dll,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\lib\plugin\,  Size: 798720
+Position: 421175525
+File: ha_example.dll,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\lib\plugin\,  Size: 310784
+Position: 421486309
+File: keyring_file.dll,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\lib\plugin\,  Size: 343040
+Position: 421829349
+File: keyring_okv.dll,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\lib\plugin\,  Size: 2953216
+Position: 424782565
+File: keyring_udf.dll,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\lib\plugin\,  Size: 324608
+Position: 425107173
+File: libpluginmecab.dll,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\lib\plugin\,  Size: 302592
+Position: 425409765
+File: libtest_framework.dll,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\lib\plugin\,  Size: 294400
+Position: 425704165
+File: libtest_services.dll,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\lib\plugin\,  Size: 296448
+Position: 426000613
+File: libtest_services_threaded.dll,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\lib\plugin\,  Size: 297472
+Position: 426298085
+File: libtest_session_detach.dll,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\lib\plugin\,  Size: 307200
+Position: 426605285
+File: libtest_session_in_thd.dll,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\lib\plugin\,  Size: 298496
+Position: 426903781
+File: libtest_session_info.dll,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\lib\plugin\,  Size: 322560
+Position: 427226341
+File: libtest_sql_2_sessions.dll,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\lib\plugin\,  Size: 328192
+Position: 427554533
+File: libtest_sql_all_col_types.dll,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\lib\plugin\,  Size: 333824
+Position: 427888357
+File: libtest_sql_cmds_1.dll,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\lib\plugin\,  Size: 324096
+Position: 428212453
+File: libtest_sql_commit.dll,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\lib\plugin\,  Size: 334848
+Position: 428547301
+File: libtest_sql_complex.dll,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\lib\plugin\,  Size: 336384
+Position: 428883685
+File: libtest_sql_errors.dll,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\lib\plugin\,  Size: 329216
+Position: 429212901
+File: libtest_sql_lock.dll,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\lib\plugin\,  Size: 317952
+Position: 429530853
+File: libtest_sql_processlist.dll,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\lib\plugin\,  Size: 308736
+Position: 429839589
+File: libtest_sql_replication.dll,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\lib\plugin\,  Size: 332800
+Position: 430172389
+File: libtest_sql_shutdown.dll,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\lib\plugin\,  Size: 305664
+Position: 430478053
+File: libtest_sql_sqlmode.dll,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\lib\plugin\,  Size: 334336
+Position: 430812389
+File: libtest_sql_stored_procedures_functions.dll,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\lib\plugin\,  Size: 333824
+Position: 431146213
+File: libtest_sql_views_triggers.dll,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\lib\plugin\,  Size: 333824
+Position: 431480037
+File: libtest_x_sessions_deinit.dll,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\lib\plugin\,  Size: 299008
+Position: 431779045
+File: libtest_x_sessions_init.dll,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\lib\plugin\,  Size: 300032
+Position: 432079077
+File: locking_service.dll,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\lib\plugin\,  Size: 184832
+Position: 432263909
+File: mypluglib.dll,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\lib\plugin\,  Size: 185344
+Position: 432449253
+File: mysql_no_login.dll,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\lib\plugin\,  Size: 184320
+Position: 432633573
+File: mysqlx.dll,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\lib\plugin\,  Size: 3420160
+Position: 436053733
+File: openssl_udf.dll,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\lib\plugin\,  Size: 2247168
+Position: 438300901
+File: rewrite_example.dll,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\lib\plugin\,  Size: 294912
+Position: 438595813
+File: rewriter.dll,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\lib\plugin\,  Size: 351232
+Position: 438947045
+File: semisync_master.dll,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\lib\plugin\,  Size: 346624
+Position: 439293669
+File: semisync_slave.dll,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\lib\plugin\,  Size: 299008
+Position: 439592677
+File: test_security_context.dll,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\lib\plugin\,  Size: 294912
+Position: 439887589
+File: test_udf_services.dll,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\lib\plugin\,  Size: 294400
+Position: 440181989
+File: thread_pool.dll,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\lib\plugin\,  Size: 359424
+Position: 440541413
+File: validate_password.dll,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\lib\plugin\,  Size: 742912
+Position: 441284325
+File: version_token.dll,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\lib\plugin\,  Size: 706560
+Position: 441990885
+File: LICENSE.mysql,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\,  Size: 2729
+Position: 441993614
+File: my-default.ini,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\,  Size: 1141
+Position: 441994755
+File: README,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\,  Size: 1449
+Position: 441996204
+File: audit_log_filter_linux_install.sql,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\share\,  Size: 1046
+Position: 441997250
+File: audit_log_filter_win_install.sql,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\share\,  Size: 1052
+Position: 441998302
+File: errmsg.sys,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\share\bulgarian\,  Size: 75994
+Position: 442074296
+File: armscii8.xml,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\share\charsets\,  Size: 4933
+Position: 442079229
+File: ascii.xml,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\share\charsets\,  Size: 4919
+Position: 442084148
+File: cp1250.xml,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\share\charsets\,  Size: 7648
+Position: 442091796
+File: cp1251.xml,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\share\charsets\,  Size: 7776
+Position: 442099572
+File: cp1256.xml,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\share\charsets\,  Size: 4976
+Position: 442104548
+File: cp1257.xml,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\share\charsets\,  Size: 8309
+Position: 442112857
+File: cp850.xml,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\share\charsets\,  Size: 4913
+Position: 442117770
+File: cp852.xml,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\share\charsets\,  Size: 4935
+Position: 442122705
+File: cp866.xml,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\share\charsets\,  Size: 5020
+Position: 442127725
+File: dec8.xml,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\share\charsets\,  Size: 5936
+Position: 442133661
+File: geostd8.xml,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\share\charsets\,  Size: 4923
+Position: 442138584
+File: greek.xml,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\share\charsets\,  Size: 5135
+Position: 442143719
+File: hebrew.xml,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\share\charsets\,  Size: 4924
+Position: 442148643
+File: hp8.xml,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\share\charsets\,  Size: 4909
+Position: 442153552
+File: Index.xml,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\share\charsets\,  Size: 18117
+Position: 442171669
+File: keybcs2.xml,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\share\charsets\,  Size: 4936
+Position: 442176605
+File: koi8r.xml,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\share\charsets\,  Size: 4917
+Position: 442181522
+File: koi8u.xml,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\share\charsets\,  Size: 5939
+Position: 442187461
+File: latin1.xml,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\share\charsets\,  Size: 9223
+Position: 442196684
+File: latin2.xml,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\share\charsets\,  Size: 6645
+Position: 442203329
+File: latin5.xml,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\share\charsets\,  Size: 4922
+Position: 442208251
+File: latin7.xml,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\share\charsets\,  Size: 6845
+Position: 442215096
+File: macce.xml,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\share\charsets\,  Size: 7454
+Position: 442222550
+File: macroman.xml,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\share\charsets\,  Size: 7465
+Position: 442230015
+File: README,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\share\charsets\,  Size: 1749
+Position: 442231764
+File: swe7.xml,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\share\charsets\,  Size: 5937
+Position: 442237701
+File: errmsg.sys,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\share\czech\,  Size: 76501
+Position: 442314202
+File: errmsg.sys,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\share\danish\,  Size: 76501
+Position: 442390703
+File: dictionary.txt,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\share\,  Size: 25575
+Position: 442416278
+File: errmsg.sys,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\share\dutch\,  Size: 77521
+Position: 442493799
+File: errmsg.sys,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\share\english\,  Size: 75741
+Position: 442569540
+File: errmsg-utf8.txt,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\share\,  Size: 524751
+Position: 443094291
+File: errmsg.sys,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\share\estonian\,  Size: 76006
+Position: 443170297
+File: fill_help_tables.sql,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\share\,  Size: 916374
+Position: 444086671
+File: errmsg.sys,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\share\french\,  Size: 77149
+Position: 444163820
+File: errmsg.sys,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\share\german\,  Size: 83463
+Position: 444247283
+File: errmsg.sys,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\share\greek\,  Size: 82533
+Position: 444329816
+File: errmsg.sys,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\share\hungarian\,  Size: 76383
+Position: 444406199
+File: innodb_memcached_config.sql,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\share\,  Size: 3999
+Position: 444410198
+File: errmsg.sys,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\share\italian\,  Size: 77512
+Position: 444487710
+File: errmsg.sys,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\share\japanese\,  Size: 83188
+Position: 444570898
+File: errmsg.sys,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\share\korean\,  Size: 78782
+Position: 444649680
+File: linux_install_firewall.sql,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\share\,  Size: 2199
+Position: 444651879
+File: mysql_security_commands.sql,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\share\,  Size: 1177
+Position: 444653056
+File: mysql_sys_schema.sql,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\share\,  Size: 286528
+Position: 444939584
+File: mysql_system_tables.sql,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\share\,  Size: 154528
+Position: 445094112
+File: mysql_system_tables_data.sql,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\share\,  Size: 225
+Position: 445094337
+File: mysql_test_data_timezone.sql,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\share\,  Size: 9821
+Position: 445104158
+File: errmsg.sys,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\share\norwegian\,  Size: 75812
+Position: 445179970
+File: errmsg.sys,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\share\norwegian-ny\,  Size: 75865
+Position: 445255835
+File: errmsg.sys,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\share\polish\,  Size: 76460
+Position: 445332295
+File: errmsg.sys,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\share\portuguese\,  Size: 78704
+Position: 445410999
+File: errmsg.sys,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\share\romanian\,  Size: 77454
+Position: 445488453
+File: errmsg.sys,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\share\russian\,  Size: 91079
+Position: 445579532
+File: errmsg.sys,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\share\serbian\,  Size: 78123
+Position: 445657655
+File: errmsg.sys,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\share\slovak\,  Size: 76268
+Position: 445733923
+File: errmsg.sys,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\share\spanish\,  Size: 77396
+Position: 445811319
+File: errmsg.sys,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\share\swedish\,  Size: 76595
+Position: 445887914
+File: errmsg.sys,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\share\ukrainian\,  Size: 85654
+Position: 445973568
+File: win_install_firewall.sql,  Directory: C:\Program Files\MySQL\MySQL Server 5.7\share\,  Size: 2207
+Position: 445975775
+Action 10:35:25: RunPostInstall. 
+Action 10:35:25: CreateShortcuts. Creating shortcuts
+Shortcut: icon.ico
+DoStep
+Shortcut: Icon.MysqlCmdShell
+DoStep
+Shortcut: rhj5cnaj|MySQL 5.7 Command Line Client
+DoStep
+Shortcut: b7npydg0|MySQL 5.7 Command Line Client - Unicode
+DoStep
+Action 10:35:25: WriteRegistryValues. Writing system registry values
+Step: 13200
+Position: 445975775
+Key: \SOFTWARE\MySQL AB\MySQL Server 5.7, Name: Location, Value: C:\Program Files\MySQL\MySQL Server 5.7\
+DoStep
+Position: 445975775
+Key: \SOFTWARE\MySQL AB\MySQL Server 5.7, Name: Version, Value: 5.7.15
+DoStep
+Position: 445975775
+Key: \SOFTWARE\MySQL AB\MySQL Server 5.7, Name: DataLocation, Value: C:\ProgramData\MySQL\MySQL Server 5.7
+DoStep
+Position: 445975775
+Key: \SOFTWARE\MySQL AB\MySQL Server 5.7, Name: , Value: 
+DoStep
+Position: 445975775
+Key: \Console\MySQL 5.7 Command Line Client - Unicode, Name: FaceName, Value: Lucida Console
+DoStep
+Position: 445975775
+Key: \Console\MySQL 5.7 Command Line Client - Unicode, Name: FontWeight, Value: #400
+DoStep
+Position: 445975775
+Key: \Console\MySQL 5.7 Command Line Client - Unicode, Name: , Value: 
+DoStep
+Position: 445975775
+Key: \Software\MySQL AB\MySQL Server 5.7, Name: installed, Value: #1
+DoStep
+Action 10:35:26: RegisterProduct. Registering product
+Position: 566328543
+{02BC6096-C48E-496B-8342-D5AD672AC4AF}
+DoStep
+Action 10:35:26: PublishFeatures. Publishing Product Features
+Feature: RegKeys
+DoStep
+Feature: Client
+DoStep
+Feature: MYSQLSERVER
+DoStep
+Feature: SharedLibraries
+DoStep
+Feature: DEVEL
+DoStep
+Feature: DOCUMENTATION
+DoStep
+Feature: IniFiles
+DoStep
+Feature: MISC
+DoStep
+Feature: Server_Scripts
+DoStep
+Feature: Readme
+DoStep
+Feature: ALWAYSINSTALL
+DoStep
+Feature: ProgramMenu
+DoStep
+Action 10:35:26: PublishProduct. Publishing product information
+Action 10:35:26: RollbackCleanup. Removing backup files
+1: MySQL Server 5.7 2: {02BC6096-C48E-496B-8342-D5AD672AC4AF} 3: 1 
+Action 10:35:31: INSTALL. 
+1: MySQL Notifier 1.1.7 2: {D31BF378-44F5-435E-92E3-220D65C7B700} 
+Action 10:35:31: FindRelatedProducts. Searching for related applications
+Action 10:35:31: AppSearch. Searching for installed applications
+Action 10:35:31: LaunchConditions. Evaluating launch conditions
+Action 10:35:31: ValidateProductID. 
+Action 10:35:31: CostInitialize. Computing space requirements
+Action 10:35:31: FileCost. Computing space requirements
+Action 10:35:31: CostFinalize. Computing space requirements
+Action 10:35:31: MySQLNotifier.TaskKill. 
+Action 10:35:32: InstallValidate. Validating install
+Min: 0 Max: 165
+Position: 25
+Position: 50
+Position: 75
+Position: 100
+Position: 100
+Action 10:35:32: RemoveExistingProducts. Removing applications
+Action 10:35:32: WixCloseApplications. 
+Action 10:35:32: InstallInitialize. 
+Action 10:35:32: ProcessComponents. Updating component registration
+Position: 100
+Action 10:35:32: GenerateScript. Generating script operations for action:
+Position: 101
+Position: 102
+Updating component registration
+DoStep
+Position: 103
+Position: 104
+Position: 105
+Position: 106
+Action 10:35:32: UnpublishFeatures. Unpublishing Product Features
+Action 10:35:32: RemoveRegistryValues. Removing system registry values
+Action 10:35:32: RemoveShortcuts. Removing shortcuts
+Action 10:35:32: RemoveFiles. Removing files
+Action 10:35:32: RemoveFolders. Removing folders
+Action 10:35:32: CreateFolders. Creating folders
+Folder: Creating folders
+DoStep
+Position: 107
+Position: 108
+Position: 109
+Action 10:35:33: InstallFiles. Copying new files
+File: Copying new files,  Directory: ,  Size: 
+DoStep
+Position: 110
+Position: 111
+Position: 112
+Position: 113
+Position: 114
+Position: 115
+Position: 116
+Position: 117
+Position: 118
+Position: 119
+Position: 120
+Position: 121
+Position: 122
+Action 10:35:33: CreateShortcuts. Creating shortcuts
+Shortcut: Creating shortcuts
+DoStep
+Position: 123
+Position: 124
+Position: 125
+Position: 126
+Action 10:35:33: WriteRegistryValues. Writing system registry values
+Key: Writing system registry values, Name: , Value: 
+DoStep
+Position: 127
+Position: 128
+Position: 129
+Position: 130
+Position: 131
+Position: 132
+Position: 133
+Action 10:35:33: RegisterUser. Registering user
+Action 10:35:33: RegisterProduct. Registering product
+Registering product
+DoStep
+Position: 134
+Position: 135
+Position: 136
+Position: 137
+Position: 138
+Action 10:35:33: PublishFeatures. Publishing Product Features
+Feature: Publishing Product Features
+DoStep
+Position: 139
+Position: 140
+Action 10:35:33: PublishProduct. Publishing product information
+
+DoStep
+Position: 141
+Position: 142
+Position: 143
+Position: 144
+Position: 145
+Position: 146
+Position: 147
+Position: 148
+Action 10:35:33: InstallFinalize. 
+Min: 0 Max: 3593133
+Position: 3593133
+Action 10:35:33: ProcessComponents. Updating component registration
+Step: 24000
+Position: 0
+Position: 0
+Action 10:35:33: CreateFolders. Creating folders
+Folder: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\MySQL\MySQL Notifier 1.1.7\
+DoStep
+Folder: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\MySQL\
+DoStep
+Action 10:35:33: InstallFiles. Copying new files
+File: COPYING,  Directory: C:\Program Files (x86)\MySQL\MySQL Notifier 1.1\,  Size: 20018
+Position: 20018
+File: MySql.Data.dll,  Directory: C:\Program Files (x86)\MySQL\MySQL Notifier 1.1\,  Size: 471552
+Position: 491570
+File: MySQLNotifier.exe,  Directory: C:\Program Files (x86)\MySQL\MySQL Notifier 1.1\,  Size: 754176
+Position: 1245746
+File: MySQL.Utility.dll,  Directory: C:\Program Files (x86)\MySQL\MySQL Notifier 1.1\,  Size: 286720
+Position: 1532466
+File: README,  Directory: C:\Program Files (x86)\MySQL\MySQL Notifier 1.1\,  Size: 1067
+Position: 1533533
+File: Release Notes.txt,  Directory: C:\Program Files (x86)\MySQL\MySQL Notifier 1.1\,  Size: 7968
+Position: 1541501
+File: WexInstaller.Core.dll,  Directory: C:\Program Files (x86)\MySQL\MySQL Notifier 1.1\,  Size: 313344
+Position: 1854845
+Action 10:35:33: CreateShortcuts. Creating shortcuts
+Shortcut: Notifier.ico
+DoStep
+Shortcut: 6h-l4nhy.7|MySQL Notifier 1.1.7
+DoStep
+Action 10:35:33: WriteRegistryValues. Writing system registry values
+Step: 13200
+Position: 1854845
+Key: \Software\MySQL AB\MySQL Notifier 1.1.7, Name: installed, Value: #1
+DoStep
+Position: 1854845
+Key: \Software\MySQL AB\MySQL Notifier 1.1.7, Name: location, Value: C:\Program Files (x86)\MySQL\MySQL Notifier 1.1\
+DoStep
+Position: 1854845
+Key: \Software\Microsoft\Windows\CurrentVersion\Run, Name: MySQL Notifier, Value: C:\Program Files (x86)\MySQL\MySQL Notifier 1.1\MySqlNotifier.exe
+DoStep
+Action 10:35:33: RegisterProduct. Registering product
+Position: 3505533
+{D31BF378-44F5-435E-92E3-220D65C7B700}
+DoStep
+Action 10:35:33: PublishFeatures. Publishing Product Features
+Feature: Complete
+DoStep
+Action 10:35:33: PublishProduct. Publishing product information
+Action 10:35:33: RollbackCleanup. Removing backup files
+Action 10:35:34: LaunchApplication. 
+Action 10:35:34: WixCheckRebootRequired. 
+1: MySQL Notifier 1.1.7 2: {D31BF378-44F5-435E-92E3-220D65C7B700} 3: 1 
+Action 10:35:37: INSTALL. 
+1: MySQL Enterprise Backup 4.0.3 2: {C9FDFA6F-8119-4243-8AB6-58FBC6F3B6C2} 
+Action 10:35:37: FindRelatedProducts. Searching for related applications
+Action 10:35:37: LaunchConditions. Evaluating launch conditions
+Action 10:35:37: ValidateProductID. 
+Action 10:35:37: CostInitialize. Computing space requirements
+Action 10:35:37: FileCost. Computing space requirements
+Action 10:35:37: CostFinalize. Computing space requirements
+Action 10:35:37: InstallValidate. Validating install
+Min: 0 Max: 290
+Position: 25
+Position: 50
+Position: 75
+Position: 100
+Position: 125
+Position: 150
+Position: 175
+Position: 200
+Position: 225
+Position: 225
+Position: 225
+Action 10:35:37: InstallInitialize. 
+Action 10:35:37: RemoveExistingProducts. Removing applications
+Action 10:35:37: ProcessComponents. Updating component registration
+Position: 225
+Action 10:35:37: GenerateScript. Generating script operations for action:
+Position: 226
+Position: 227
+Updating component registration
+DoStep
+Position: 228
+Position: 229
+Position: 230
+Position: 231
+Position: 232
+Position: 233
+Position: 234
+Position: 235
+Position: 236
+Action 10:35:37: UnpublishFeatures. Unpublishing Product Features
+Action 10:35:37: RemoveRegistryValues. Removing system registry values
+Action 10:35:37: RemoveShortcuts. Removing shortcuts
+Action 10:35:37: RemoveEnvironmentStrings. Updating environment strings
+Action 10:35:37: RemoveFiles. Removing files
+Action 10:35:37: InstallFiles. Copying new files
+File: Copying new files,  Directory: ,  Size: 
+DoStep
+Position: 237
+Position: 238
+Position: 239
+Position: 240
+Position: 241
+Position: 242
+Position: 243
+Position: 244
+Position: 245
+Position: 246
+Position: 247
+Position: 248
+Action 10:35:37: CreateShortcuts. Creating shortcuts
+Shortcut: Creating shortcuts
+DoStep
+Position: 249
+Position: 250
+Position: 251
+Position: 252
+Position: 253
+Action 10:35:37: WriteRegistryValues. Writing system registry values
+Key: Writing system registry values, Name: , Value: 
+DoStep
+Position: 254
+Position: 255
+Position: 256
+Position: 257
+Action 10:35:37: WriteEnvironmentStrings. Updating environment strings
+Name: Updating environment strings, Value: , Action 
+DoStep
+Position: 258
+Position: 259
+Position: 260
+Action 10:35:37: RegisterUser. Registering user
+Action 10:35:37: RegisterProduct. Registering product
+Registering product
+DoStep
+Position: 261
+Position: 262
+Position: 263
+Position: 264
+Position: 265
+Action 10:35:37: PublishFeatures. Publishing Product Features
+Feature: Publishing Product Features
+DoStep
+Position: 266
+Position: 267
+Action 10:35:38: PublishProduct. Publishing product information
+
+DoStep
+Position: 268
+Position: 269
+Position: 270
+Position: 271
+Position: 272
+Position: 273
+Position: 274
+Position: 275
+Action 10:35:38: InstallFinalize. 
+Min: 0 Max: 17247585
+Position: 17247585
+Action 10:35:38: ProcessComponents. Updating component registration
+Step: 24000
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Action 10:35:38: InstallFiles. Copying new files
+File: LICENSE.mysql.txt,  Directory: C:\Program Files\MySQL\MySQL Enterprise Backup 4.0\,  Size: 2746
+Position: 2746
+File: LICENSE.third_party.txt,  Directory: C:\Program Files\MySQL\MySQL Enterprise Backup 4.0\,  Size: 63350
+Position: 66096
+File: manual.html,  Directory: C:\Program Files\MySQL\MySQL Enterprise Backup 4.0\,  Size: 941185
+Position: 1007281
+File: mysqlbackup.exe,  Directory: C:\Program Files\MySQL\MySQL Enterprise Backup 4.0\,  Size: 12093440
+Position: 13100721
+File: mvl.css,  Directory: C:\Program Files\MySQL\MySQL Enterprise Backup 4.0\,  Size: 26967
+Position: 13127688
+File: README.txt,  Directory: C:\Program Files\MySQL\MySQL Enterprise Backup 4.0\,  Size: 1529
+Position: 13129217
+Action 10:35:38: CreateShortcuts. Creating shortcuts
+Shortcut: icon.ico
+DoStep
+Shortcut: 9yl-siv9|MySQL Enterprise Backup Command Prompt
+DoStep
+Shortcut: _hd5d4ty|MySQL Enterprise Backup Documentation
+DoStep
+Action 10:35:38: WriteRegistryValues. Writing system registry values
+Step: 13200
+Position: 13129217
+Key: \Software\Oracle Corporation\MySQL Enterprise Backup 4.0.3, Name: , Value: 
+DoStep
+Action 10:35:38: WriteEnvironmentStrings. Updating environment strings
+Step: 13200
+Position: 13129217
+Name: PATH, Value: C:\Program Files\MySQL\MySQL Enterprise Backup 4.0\, Action 1610612737
+DoStep
+Action 10:35:38: RegisterProduct. Registering product
+Position: 17053185
+{C9FDFA6F-8119-4243-8AB6-58FBC6F3B6C2}
+DoStep
+Action 10:35:38: PublishFeatures. Publishing Product Features
+Feature: MEB
+DoStep
+Action 10:35:38: PublishProduct. Publishing product information
+Action 10:35:38: RollbackCleanup. Removing backup files
+1: MySQL Enterprise Backup 4.0.3 2: {C9FDFA6F-8119-4243-8AB6-58FBC6F3B6C2} 3: 1 
+Action 10:35:45: INSTALL. 
+1: MySQL Connector/ODBC 5.3 2: {77A8249E-75D7-41CC-A07A-09BC62CB998B} 
+Action 10:35:45: FindRelatedProducts. Searching for related applications
+Action 10:35:45: AppSearch. Searching for installed applications
+Action 10:35:45: ValidateProductID. 
+Action 10:35:45: CostInitialize. Computing space requirements
+Action 10:35:45: FileCost. Computing space requirements
+Action 10:35:45: CostFinalize. Computing space requirements
+Action 10:35:45: InstallValidate. Validating install
+Min: 0 Max: 235
+Position: 25
+Position: 50
+Position: 75
+Position: 100
+Position: 125
+Position: 150
+Position: 150
+Action 10:35:45: SetARPINSTALLLOCATION. 
+Action 10:35:45: SetARPREADME. 
+Action 10:35:45: InstallInitialize. 
+Action 10:35:45: RemoveExistingProducts. Removing applications
+Action 10:35:45: ProcessComponents. Updating component registration
+Position: 150
+Action 10:35:45: GenerateScript. Generating script operations for action:
+Position: 151
+Position: 152
+Updating component registration
+DoStep
+Position: 153
+Position: 154
+Position: 155
+Position: 156
+Position: 157
+Position: 158
+Position: 159
+Action 10:35:46: UnpublishFeatures. Unpublishing product features
+Action 10:35:46: RemoveODBC. Removing ODBC components
+Position: 160
+Position: 161
+Position: 162
+Action 10:35:46: RemoveRegistryValues. Removing system registry values
+Action 10:35:46: RemoveFiles. Removing files
+Action 10:35:46: InstallFiles. Copying new files
+File: Copying new files,  Directory: ,  Size: 
+DoStep
+Position: 163
+Position: 164
+Position: 165
+Position: 166
+Position: 167
+Position: 168
+Position: 169
+Position: 170
+Position: 171
+Position: 172
+Position: 173
+Position: 174
+Position: 175
+Position: 176
+Position: 177
+Position: 178
+Position: 179
+Position: 180
+Position: 181
+Position: 182
+Position: 183
+Action 10:35:46: WriteRegistryValues. Writing system registry values
+Key: Writing system registry values, Name: , Value: 
+DoStep
+Position: 184
+Position: 185
+Position: 186
+Position: 187
+Position: 188
+Action 10:35:46: InstallODBC. Installing ODBC components
+Position: 189
+Position: 190
+Position: 191
+Action 10:35:46: RegisterUser. Registering user
+Action 10:35:46: RegisterProduct. Registering product
+Registering product
+DoStep
+Position: 192
+Position: 193
+Position: 194
+Position: 195
+Position: 196
+Action 10:35:46: PublishFeatures. Publishing product features
+Feature: Publishing product features
+DoStep
+Position: 197
+Position: 198
+Action 10:35:46: PublishProduct. Publishing product information
+Position: 199
+Position: 200
+Position: 201
+Position: 202
+Position: 203
+Position: 204
+Position: 205
+Position: 206
+Position: 207
+Action 10:35:46: InstallFinalize. 
+Min: 0 Max: 56991093
+Position: 56991093
+Action 10:35:46: ProcessComponents. Updating component registration
+Step: 24000
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Action 10:35:46: RemoveODBC. Removing ODBC components
+Action 10:35:46: InstallFiles. Copying new files
+File: ChangeLog.txt,  Directory: C:\Program Files\MySQL\Connector.ODBC 5.3\,  Size: 58564
+Position: 58564
+File: myodbc-installer.exe,  Directory: C:\Program Files\MySQL\Connector.ODBC 5.3\,  Size: 4269568
+Position: 4328132
+File: myodbc-installer.pdb,  Directory: C:\Program Files\MySQL\Connector.ODBC 5.3\,  Size: 1798144
+Position: 6126276
+File: Licenses_for_Third-Party_Components.txt,  Directory: C:\Program Files\MySQL\Connector.ODBC 5.3\,  Size: 103161
+Position: 6229437
+File: LICENSE.mysql.txt,  Directory: C:\Program Files\MySQL\Connector.ODBC 5.3\,  Size: 2741
+Position: 6232178
+File: myodbc5a.dll,  Directory: C:\Program Files\MySQL\Connector.ODBC 5.3\,  Size: 6989824
+Position: 13222002
+File: myodbc5S.dll,  Directory: C:\Program Files\MySQL\Connector.ODBC 5.3\,  Size: 4387840
+Position: 17609842
+File: myodbc5S.lib,  Directory: C:\Program Files\MySQL\Connector.ODBC 5.3\,  Size: 1916
+Position: 17611758
+File: myodbc5S.pdb,  Directory: C:\Program Files\MySQL\Connector.ODBC 5.3\,  Size: 2052096
+Position: 19663854
+File: myodbc5w.dll,  Directory: C:\Program Files\MySQL\Connector.ODBC 5.3\,  Size: 6988288
+Position: 26652142
+File: myodbc5a.lib,  Directory: C:\Program Files\MySQL\Connector.ODBC 5.3\,  Size: 16478
+Position: 26668620
+File: myodbc5a.pdb,  Directory: C:\Program Files\MySQL\Connector.ODBC 5.3\,  Size: 9637888
+Position: 36306508
+File: myodbc5w.lib,  Directory: C:\Program Files\MySQL\Connector.ODBC 5.3\,  Size: 16658
+Position: 36323166
+File: myodbc5w.pdb,  Directory: C:\Program Files\MySQL\Connector.ODBC 5.3\,  Size: 9637888
+Position: 45961054
+File: README.txt,  Directory: C:\Program Files\MySQL\Connector.ODBC 5.3\,  Size: 4663
+Position: 45965717
+Action 10:35:47: WriteRegistryValues. Writing system registry values
+Step: 13200
+Position: 45965717
+Key: \SOFTWARE\MySQL AB\MySQL Connector/ODBC 5.3, Name: Version, Value: 5.3.6
+DoStep
+Position: 45965717
+Key: \SOFTWARE\MySQL AB\MySQL Connector/ODBC 5.3, Name: , Value: 
+DoStep
+Action 10:35:47: InstallODBC. Installing ODBC components
+Error 1918.Error installing ODBC driver MySQL ODBC 5.3 ANSI Driver, ODBC error 13: The setup routines for the MySQL ODBC 5.3 ANSI Driver ODBC driver could not be loaded due to system error code 126: The specified module could not be found. (C:\Program Files\MySQL\Connector.ODBC 5.3\myodbc5S.dll).. Verify that the file MySQL ODBC 5.3 ANSI Driver exists and that you can access it.
+Action 10:35:48: Rollback. Rolling back action:
+Min: 0 Max: 35
+Installing ODBC components
+DoStep
+Position: -1
+Position: -2
+Position: -3
+Position: -4
+Position: -5
+Position: -6
+Writing system registry values
+DoStep
+Position: -7
+Position: -8
+Position: -9
+Position: -10
+Position: -11
+Copying new files
+DoStep
+Position: -12
+Position: -13
+Position: -14
+Position: -15
+Position: -16
+Position: -17
+Position: -18
+Position: -19
+Position: -20
+Position: -21
+Position: -22
+Position: -23
+Position: -24
+Position: -25
+Position: -26
+Position: -27
+Position: -28
+Removing ODBC components
+DoStep
+Position: -29
+Updating component registration
+DoStep
+Position: -30
+Position: -31
+Position: -32
+Position: -33
+Position: -34
+Position: -35
+1: MySQL Connector/ODBC 5.3 2: {77A8249E-75D7-41CC-A07A-09BC62CB998B} 3: 3 
+Action 10:35:50: INSTALL. 
+1: MySQL Connector C++ 1.1.7 2: {F7E14A39-AFBE-4B85-8BBD-0363C57A5410} 
+Action 10:35:50: FindRelatedProducts. Searching for related applications
+Action 10:35:50: ValidateProductID. 
+Action 10:35:50: CostInitialize. Computing space requirements
+Action 10:35:50: FileCost. Computing space requirements
+Action 10:35:50: CostFinalize. Computing space requirements
+Action 10:35:50: MigrateFeatureStates. Migrating feature states from related applications
+Action 10:35:50: InstallValidate. Validating install
+Min: 0 Max: 215
+Position: 25
+Position: 50
+Position: 75
+Position: 100
+Position: 100
+Action 10:35:50: SetARPINSTALLLOCATION. 
+Action 10:35:50: SetARPREADME. 
+Action 10:35:50: InstallInitialize. 
+Action 10:35:50: RemoveExistingProducts. Removing applications
+Action 10:35:50: ProcessComponents. Updating component registration
+Position: 100
+Action 10:35:51: GenerateScript. Generating script operations for action:
+Position: 101
+Position: 102
+Updating component registration
+DoStep
+Position: 103
+Position: 104
+Position: 105
+Position: 106
+Position: 107
+Position: 108
+Action 10:35:51: UnpublishFeatures. Unpublishing Product Features
+Action 10:35:51: RemoveFiles. Removing files
+Action 10:35:51: InstallFiles. Copying new files
+File: Copying new files,  Directory: ,  Size: 
+DoStep
+Position: 109
+Position: 110
+Position: 111
+Position: 112
+Position: 113
+Position: 114
+Position: 115
+Position: 116
+Position: 117
+Position: 118
+Position: 119
+Position: 120
+Position: 121
+Position: 122
+Position: 123
+Position: 124
+Position: 125
+Position: 126
+Position: 127
+Position: 128
+Position: 129
+Position: 130
+Position: 131
+Position: 132
+Position: 133
+Position: 134
+Position: 135
+Position: 136
+Position: 137
+Position: 138
+Position: 139
+Position: 140
+Position: 141
+Position: 142
+Position: 143
+Position: 144
+Position: 145
+Position: 146
+Position: 147
+Action 10:35:51: RegisterUser. Registering user
+Action 10:35:51: RegisterProduct. Registering product
+Registering product
+DoStep
+Position: 148
+Position: 149
+Position: 150
+Position: 151
+Position: 152
+Action 10:35:51: PublishFeatures. Publishing Product Features
+Feature: Publishing Product Features
+DoStep
+Position: 153
+Position: 154
+Position: 155
+Action 10:35:51: PublishProduct. Publishing product information
+Position: 156
+Position: 157
+Position: 158
+Position: 159
+Position: 160
+Position: 161
+Position: 162
+Position: 163
+Position: 164
+Action 10:35:51: InstallFinalize. 
+Min: 0 Max: 53216235
+Position: 53216235
+Action 10:35:51: ProcessComponents. Updating component registration
+Step: 24000
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Action 10:35:51: InstallFiles. Copying new files
+File: README.txt,  Directory: C:\Program Files\MySQL\Connector.C++ 1.1\,  Size: 792
+Position: 792
+File: LICENSE.mysql.txt,  Directory: C:\Program Files\MySQL\Connector.C++ 1.1\,  Size: 2740
+Position: 3532
+File: Licenses_for_Third-Party_Components.txt,  Directory: C:\Program Files\MySQL\Connector.C++ 1.1\,  Size: 103161
+Position: 106693
+File: INSTALL.txt,  Directory: C:\Program Files\MySQL\Connector.C++ 1.1\,  Size: 10320
+Position: 117013
+File: ANNOUNCEMENT.txt,  Directory: C:\Program Files\MySQL\Connector.C++ 1.1\,  Size: 3879
+Position: 120892
+File: mysql_driver.h,  Directory: C:\Program Files\MySQL\Connector.C++ 1.1\include\,  Size: 1911
+Position: 122803
+File: mysql_connection.h,  Directory: C:\Program Files\MySQL\Connector.C++ 1.1\include\,  Size: 4546
+Position: 127349
+File: mysql_error.h,  Directory: C:\Program Files\MySQL\Connector.C++ 1.1\include\,  Size: 648
+Position: 127997
+File: connection.h,  Directory: C:\Program Files\MySQL\Connector.C++ 1.1\include\cppconn\,  Size: 3641
+Position: 131638
+File: datatype.h,  Directory: C:\Program Files\MySQL\Connector.C++ 1.1\include\cppconn\,  Size: 657
+Position: 132295
+File: driver.h,  Directory: C:\Program Files\MySQL\Connector.C++ 1.1\include\cppconn\,  Size: 1161
+Position: 133456
+File: exception.h,  Directory: C:\Program Files\MySQL\Connector.C++ 1.1\include\cppconn\,  Size: 3814
+Position: 137270
+File: metadata.h,  Directory: C:\Program Files\MySQL\Connector.C++ 1.1\include\cppconn\,  Size: 13212
+Position: 150482
+File: parameter_metadata.h,  Directory: C:\Program Files\MySQL\Connector.C++ 1.1\include\cppconn\,  Size: 1095
+Position: 151577
+File: prepared_statement.h,  Directory: C:\Program Files\MySQL\Connector.C++ 1.1\include\cppconn\,  Size: 1931
+Position: 153508
+File: resultset.h,  Directory: C:\Program Files\MySQL\Connector.C++ 1.1\include\cppconn\,  Size: 3538
+Position: 157046
+File: resultset_metadata.h,  Directory: C:\Program Files\MySQL\Connector.C++ 1.1\include\cppconn\,  Size: 1891
+Position: 158937
+File: statement.h,  Directory: C:\Program Files\MySQL\Connector.C++ 1.1\include\cppconn\,  Size: 1566
+Position: 160503
+File: warning.h,  Directory: C:\Program Files\MySQL\Connector.C++ 1.1\include\cppconn\,  Size: 987
+Position: 161490
+File: config.h,  Directory: C:\Program Files\MySQL\Connector.C++ 1.1\include\cppconn\,  Size: 1995
+Position: 163485
+File: build_config.h,  Directory: C:\Program Files\MySQL\Connector.C++ 1.1\include\cppconn\,  Size: 792
+Position: 164277
+File: sqlstring.h,  Directory: C:\Program Files\MySQL\Connector.C++ 1.1\include\cppconn\,  Size: 4623
+Position: 168900
+File: variant.h,  Directory: C:\Program Files\MySQL\Connector.C++ 1.1\include\cppconn\,  Size: 5826
+Position: 174726
+File: version_info.h,  Directory: C:\Program Files\MySQL\Connector.C++ 1.1\include\cppconn\,  Size: 661
+Position: 175387
+File: mysqlcppconn.dll,  Directory: C:\Program Files\MySQL\Connector.C++ 1.1\lib\opt\,  Size: 8146432
+Position: 8321819
+File: mysqlcppconn.lib,  Directory: C:\Program Files\MySQL\Connector.C++ 1.1\lib\opt\,  Size: 66424
+Position: 8388243
+File: mysqlcppconn-static.lib,  Directory: C:\Program Files\MySQL\Connector.C++ 1.1\lib\opt\,  Size: 33316440
+Position: 41704683
+Action 10:35:52: RegisterProduct. Registering product
+Position: 53120235
+{F7E14A39-AFBE-4B85-8BBD-0363C57A5410}
+DoStep
+Action 10:35:52: PublishFeatures. Publishing Product Features
+Feature: ConnectorCPP
+DoStep
+Feature: Complete
+DoStep
+Action 10:35:52: PublishProduct. Publishing product information
+Action 10:35:52: RollbackCleanup. Removing backup files
+1: MySQL Connector C++ 1.1.7 2: {F7E14A39-AFBE-4B85-8BBD-0363C57A5410} 3: 1 
+Action 10:35:54: INSTALL. 
+1: MySQL Connector J 2: {BFB826F5-B63E-454D-ADEC-BC303A987DF4} 
+Action 10:35:54: FindRelatedProducts. Searching for related applications
+Action 10:35:54: ValidateProductID. 
+Action 10:35:54: CostInitialize. Computing space requirements
+Action 10:35:54: FileCost. Computing space requirements
+Action 10:35:54: CostFinalize. Computing space requirements
+Action 10:35:54: InstallValidate. Validating install
+Min: 0 Max: 260
+Position: 25
+Position: 50
+Position: 75
+Position: 100
+Position: 125
+Position: 150
+Position: 175
+Position: 200
+Position: 200
+Position: 200
+Action 10:35:54: InstallInitialize. 
+Action 10:35:54: RemoveExistingProducts. Removing applications
+Action 10:35:54: ProcessComponents. Updating component registration
+Position: 200
+Action 10:35:54: GenerateScript. Generating script operations for action:
+Position: 201
+Position: 202
+Updating component registration
+DoStep
+Position: 203
+Position: 204
+Position: 205
+Position: 206
+Position: 207
+Position: 208
+Position: 209
+Position: 210
+Position: 211
+Position: 212
+Action 10:35:54: UnpublishFeatures. Unpublishing Product Features
+Action 10:35:54: RemoveFiles. Removing files
+Action 10:35:54: InstallFiles. Copying new files
+File: Copying new files,  Directory: ,  Size: 
+DoStep
+Position: 213
+Position: 214
+Position: 215
+Position: 216
+Position: 217
+Position: 218
+Position: 219
+Position: 220
+Position: 221
+Position: 222
+Position: 223
+Position: 224
+Position: 225
+Position: 226
+Position: 227
+Position: 228
+Position: 229
+Position: 230
+Position: 231
+Position: 232
+Action 10:35:55: RegisterUser. Registering user
+Action 10:35:55: RegisterProduct. Registering product
+Registering product
+DoStep
+Position: 233
+Position: 234
+Position: 235
+Position: 236
+Position: 237
+Action 10:35:55: PublishFeatures. Publishing Product Features
+Feature: Publishing Product Features
+DoStep
+Position: 238
+Position: 239
+Action 10:35:55: PublishProduct. Publishing product information
+
+DoStep
+Position: 240
+Position: 241
+Position: 242
+Position: 243
+Position: 244
+Position: 245
+Position: 246
+Position: 247
+Action 10:35:55: InstallFinalize. 
+Min: 0 Max: 4372260
+Position: 4372260
+Action 10:35:55: ProcessComponents. Updating component registration
+Step: 24000
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Action 10:35:55: InstallFiles. Copying new files
+File: CHANGES,  Directory: C:\Program Files (x86)\MySQL\Connector.J 5.1\,  Size: 239747
+Position: 239747
+File: connector-j.html,  Directory: C:\Program Files (x86)\MySQL\Connector.J 5.1\docs\,  Size: 515348
+Position: 755095
+File: connector-j.pdf,  Directory: C:\Program Files (x86)\MySQL\Connector.J 5.1\docs\,  Size: 448564
+Position: 1203659
+File: LICENSE.mysql,  Directory: C:\Program Files (x86)\MySQL\Connector.J 5.1\,  Size: 2738
+Position: 1206397
+File: mysql-connector-java-commercial-5.1.39-bin.jar,  Directory: C:\Program Files (x86)\MySQL\Connector.J 5.1\,  Size: 989521
+Position: 2195918
+File: README,  Directory: C:\Program Files (x86)\MySQL\Connector.J 5.1\,  Size: 60219
+Position: 2256137
+File: README.txt,  Directory: C:\Program Files (x86)\MySQL\Connector.J 5.1\,  Size: 62445
+Position: 2318582
+File: README.txt,  Directory: C:\Program Files (x86)\MySQL\Connector.J 5.1\docs\,  Size: 295982
+Position: 2614564
+Action 10:35:55: RegisterProduct. Registering product
+Position: 4180260
+{BFB826F5-B63E-454D-ADEC-BC303A987DF4}
+DoStep
+Action 10:35:55: PublishFeatures. Publishing Product Features
+Feature: ProductFeature
+DoStep
+Action 10:35:55: PublishProduct. Publishing product information
+Action 10:35:55: RollbackCleanup. Removing backup files
+1: MySQL Connector J 2: {BFB826F5-B63E-454D-ADEC-BC303A987DF4} 3: 1 
+Action 10:35:58: INSTALL. 
+1: MySQL Connector Net 6.9.9 2: {5189E14A-1BF7-491C-9925-EBCA572D6768} 
+Action 10:35:58: FindRelatedProducts. Searching for related applications
+Action 10:35:58: AppSearch. Searching for installed applications
+Action 10:35:58: LaunchConditions. Evaluating launch conditions
+Action 10:35:58: ValidateProductID. 
+Action 10:35:58: CostInitialize. Computing space requirements
+Action 10:35:58: FileCost. Computing space requirements
+Action 10:35:58: CostFinalize. Computing space requirements
+Action 10:35:58: InstallValidate. Validating install
+Min: 0 Max: 1189
+Position: 25
+Position: 50
+Position: 75
+Position: 100
+Position: 125
+Position: 150
+Position: 175
+Position: 200
+Position: 225
+Position: 250
+Position: 275
+Position: 300
+Position: 325
+Position: 350
+Position: 375
+Position: 400
+Position: 425
+Position: 450
+Position: 475
+Position: 500
+Position: 525
+Position: 550
+Position: 575
+Position: 600
+Position: 625
+Position: 650
+Position: 675
+Position: 700
+Position: 725
+Position: 750
+Position: 775
+Position: 800
+Position: 825
+Position: 850
+Position: 850
+Position: 850
+Action 10:35:59: Setv4InstallUtil. 
+Action 10:35:59: InstallInitialize. 
+Action 10:35:59: RemoveExistingProducts. Removing applications
+Action 10:35:59: ProcessComponents. Updating component registration
+Position: 850
+Action 10:35:59: GenerateScript. Generating script operations for action:
+Position: 851
+Position: 852
+Updating component registration
+DoStep
+Position: 853
+Position: 854
+Position: 855
+Position: 856
+Position: 857
+Position: 858
+Position: 859
+Position: 860
+Position: 861
+Position: 862
+Position: 863
+Position: 864
+Position: 865
+Position: 866
+Position: 867
+Position: 868
+Position: 869
+Position: 870
+Position: 871
+Position: 872
+Position: 873
+Position: 874
+Position: 875
+Position: 876
+Position: 877
+Position: 878
+Position: 879
+Position: 880
+Action 10:36:00: MsiUnpublishAssemblies. Unpublishing assembly information
+Action 10:36:00: UnpublishFeatures. Unpublishing Product Features
+Action 10:36:00: UninstallPerfCounterData. 
+Action 10:36:00: RemoveRegistryValues. Removing system registry values
+Action 10:36:00: RemoveShortcuts. Removing shortcuts
+Action 10:36:00: RemoveFiles. Removing files
+Action 10:36:00: RemoveFolders. Removing folders
+Action 10:36:00: CreateFolders. Creating folders
+Folder: Creating folders
+DoStep
+Position: 881
+Position: 882
+Action 10:36:00: InstallFiles. Copying new files
+File: Copying new files,  Directory: ,  Size: 
+DoStep
+Position: 883
+Position: 884
+Position: 885
+Position: 886
+Position: 887
+Position: 888
+Position: 889
+Position: 890
+Position: 891
+Position: 892
+Position: 893
+Position: 894
+Position: 895
+Position: 896
+Position: 897
+Position: 898
+Position: 899
+Position: 900
+Position: 901
+Position: 902
+Position: 903
+Position: 904
+Position: 905
+Position: 906
+Position: 907
+Position: 908
+Position: 909
+Position: 910
+Position: 911
+Position: 912
+Position: 913
+Position: 914
+Position: 915
+Position: 916
+Position: 917
+Position: 918
+Position: 919
+Position: 920
+Position: 921
+Position: 922
+Position: 923
+Position: 924
+Position: 925
+Position: 926
+Position: 927
+Position: 928
+Position: 929
+Position: 930
+Position: 931
+Position: 932
+Position: 933
+Position: 934
+Position: 935
+Position: 936
+Position: 937
+Position: 938
+Position: 939
+Position: 940
+Position: 941
+Position: 942
+Position: 943
+Position: 944
+Position: 945
+Position: 946
+Position: 947
+Position: 948
+Position: 949
+Position: 950
+Position: 951
+Position: 952
+Position: 953
+Position: 954
+Position: 955
+Position: 956
+Position: 957
+Position: 958
+Position: 959
+Position: 960
+Position: 961
+Position: 962
+Position: 963
+Position: 964
+Position: 965
+Position: 966
+Position: 967
+Position: 968
+Position: 969
+Position: 970
+Position: 971
+Position: 972
+Position: 973
+Position: 974
+Position: 975
+Position: 976
+Position: 977
+Position: 978
+Position: 979
+Position: 980
+Position: 981
+Position: 982
+Position: 983
+Position: 984
+Position: 985
+Position: 986
+Position: 987
+Position: 988
+Position: 989
+Position: 990
+Position: 991
+Position: 992
+Position: 993
+Position: 994
+Position: 995
+Position: 996
+Position: 997
+Position: 998
+Position: 999
+Position: 1000
+Position: 1001
+Position: 1002
+Position: 1003
+Position: 1004
+Position: 1005
+Position: 1006
+Position: 1007
+Position: 1008
+Position: 1009
+Position: 1010
+Position: 1011
+Position: 1012
+Position: 1013
+Position: 1014
+Position: 1015
+Position: 1016
+Position: 1017
+Position: 1018
+Position: 1019
+Position: 1020
+Action 10:36:01: ManagedDataInstallSetup. 
+Action 10:36:01: ManagedDataInstall. Registering data provider in machine.config
+Position: 1021
+Position: 1022
+Action 10:36:01: ManagedWebInstallSetup. 
+Action 10:36:01: ManagedWebInstall. Registering web providers in machine.config
+Position: 1023
+Position: 1024
+Action 10:36:01: CreateShortcuts. Creating shortcuts
+Shortcut: Creating shortcuts
+DoStep
+Position: 1025
+Position: 1026
+Position: 1027
+Position: 1028
+Position: 1029
+Position: 1030
+Action 10:36:01: WriteRegistryValues. Writing system registry values
+Key: Writing system registry values, Name: , Value: 
+DoStep
+Position: 1031
+Position: 1032
+Position: 1033
+Position: 1034
+Position: 1035
+Position: 1036
+Position: 1037
+Position: 1038
+Position: 1039
+Position: 1040
+Position: 1041
+Position: 1042
+Position: 1043
+Position: 1044
+Position: 1045
+Position: 1046
+Position: 1047
+Position: 1048
+Position: 1049
+Position: 1050
+Position: 1051
+Position: 1052
+Position: 1053
+Position: 1054
+Action 10:36:01: InstallPerfCounterData. 
+Action 10:36:01: RollbackRegisterPerfCounterData. 
+
+DoStep
+Position: 1055
+Position: 1056
+Action 10:36:01: RegisterPerfCounterData. 
+
+DoStep
+Position: 1057
+Position: 1058
+Action 10:36:01: RegisterUser. Registering user
+Action 10:36:01: RegisterProduct. Registering product
+Registering product
+DoStep
+Position: 1059
+Position: 1060
+Position: 1061
+Position: 1062
+Position: 1063
+Action 10:36:01: MsiPublishAssemblies. Publishing assembly information
+Application Context:Publishing assembly information, Assembly Name:
+DoStep
+Position: 1064
+Position: 1065
+Position: 1066
+Position: 1067
+Action 10:36:01: PublishFeatures. Publishing Product Features
+Feature: Publishing Product Features
+DoStep
+Position: 1068
+Position: 1069
+Position: 1070
+Position: 1071
+Position: 1072
+Position: 1073
+Position: 1074
+Position: 1075
+Position: 1076
+Position: 1077
+Position: 1078
+Action 10:36:01: PublishProduct. Publishing product information
+
+DoStep
+Position: 1079
+Position: 1080
+Position: 1081
+Position: 1082
+Position: 1083
+Position: 1084
+Position: 1085
+Position: 1086
+Action 10:36:01: InstallFinalize. 
+Min: 0 Max: 21249686
+Position: 21249686
+Action 10:36:01: ProcessComponents. Updating component registration
+Step: 24000
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Action 10:36:01: CreateFolders. Creating folders
+Folder: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\MySQL\MySQL Connector Net 6.9.9\
+DoStep
+Action 10:36:01: InstallFiles. Copying new files
+File: license-antlr.html,  Directory: C:\Program Files (x86)\MySQL\Connector.NET 6.9\Documentation\Licenses for Third-Party Components\,  Size: 16836
+Position: 16836
+File: CHANGES,  Directory: C:\Program Files (x86)\MySQL\Connector.NET 6.9\,  Size: 5204
+Position: 22040
+File: ConnectorNET.chm,  Directory: C:\Program Files (x86)\MySQL\Connector.NET 6.9\Documentation\,  Size: 2324140
+Position: 2346180
+File: COL_Master.HxC,  Directory: C:\Program Files (x86)\MySQL\Connector.NET 6.9\Documentation\,  Size: 1048
+Position: 2347228
+File: COL_Master.HxT,  Directory: C:\Program Files (x86)\MySQL\Connector.NET 6.9\Documentation\,  Size: 270
+Position: 2347498
+File: COL_Master_A.HxK,  Directory: C:\Program Files (x86)\MySQL\Connector.NET 6.9\Documentation\,  Size: 232
+Position: 2347730
+File: COL_Master_F.HxK,  Directory: C:\Program Files (x86)\MySQL\Connector.NET 6.9\Documentation\,  Size: 233
+Position: 2347963
+File: COL_Master_K.HxK,  Directory: C:\Program Files (x86)\MySQL\Connector.NET 6.9\Documentation\,  Size: 229
+Position: 2348192
+File: COL_Master_N.HxK,  Directory: C:\Program Files (x86)\MySQL\Connector.NET 6.9\Documentation\,  Size: 240
+Position: 2348432
+File: help.cmd,  Directory: C:\Program Files (x86)\MySQL\Connector.NET 6.9\Documentation\,  Size: 3380
+Position: 2351812
+File: License.MYSQL,  Directory: C:\Program Files (x86)\MySQL\Connector.NET 6.9\,  Size: 2756
+Position: 2354568
+File: HelpContentSetup.msha,  Directory: C:\Program Files (x86)\MySQL\Connector.NET 6.9\Documentation\,  Size: 695
+Position: 2355263
+File: MySql.Data.mshc,  Directory: C:\Program Files (x86)\MySQL\Connector.NET 6.9\Documentation\,  Size: 4366910
+Position: 6722173
+File: MySql.Data.Entity.dll,  Directory: C:\Program Files (x86)\MySQL\Connector.NET 6.9\Assemblies\v4.0\,  Size: 336896
+Position: 7059069
+File: MySql.Data.Entity.dll,  Directory: ,  Size: 336896
+Position: 7395965
+File: MySql.Data.Entity.EF5.xml,  Directory: C:\Program Files (x86)\MySQL\Connector.NET 6.9\Assemblies\v4.0\,  Size: 5897
+Position: 7401862
+File: MySql.Data.Entity.EF5.dll,  Directory: C:\Program Files (x86)\MySQL\Connector.NET 6.9\Assemblies\v4.5\,  Size: 347648
+Position: 7749510
+File: MySql.Data.Entity.EF5.xml,  Directory: C:\Program Files (x86)\MySQL\Connector.NET 6.9\Assemblies\v4.5\,  Size: 5901
+Position: 7755411
+File: MySql.Data.Entity.EF6.dll,  Directory: C:\Program Files (x86)\MySQL\Connector.NET 6.9\Assemblies\v4.0\,  Size: 348672
+Position: 8104083
+File: MySql.Data.Entity.EF6.xml,  Directory: C:\Program Files (x86)\MySQL\Connector.NET 6.9\Assemblies\v4.0\,  Size: 8849
+Position: 8112932
+File: MySql.Data.Entity.EF6.dll,  Directory: C:\Program Files (x86)\MySQL\Connector.NET 6.9\Assemblies\v4.5\,  Size: 359424
+Position: 8472356
+File: MySql.Data.Entity.EF6.xml,  Directory: C:\Program Files (x86)\MySQL\Connector.NET 6.9\Assemblies\v4.5\,  Size: 8849
+Position: 8481205
+File: MySql.Data.dll,  Directory: C:\Program Files (x86)\MySQL\Connector.NET 6.9\Assemblies\v4.0\,  Size: 424448
+Position: 8905653
+File: MySql.Data.dll,  Directory: ,  Size: 424448
+Position: 9330101
+File: MySql.Data.xml,  Directory: C:\Program Files (x86)\MySQL\Connector.NET 6.9\Assemblies\v4.0\,  Size: 536582
+Position: 9866683
+File: MySql.Data.dll,  Directory: C:\Program Files (x86)\MySQL\Connector.NET 6.9\Assemblies\v4.5\,  Size: 424448
+Position: 10291131
+File: MySql.Data.xml,  Directory: C:\Program Files (x86)\MySQL\Connector.NET 6.9\Assemblies\v4.5\,  Size: 536582
+Position: 10827713
+File: MySql.Fabric.Plugin.dll,  Directory: C:\Program Files (x86)\MySQL\Connector.NET 6.9\Assemblies\v4.0\,  Size: 25088
+Position: 10852801
+File: MySql.Fabric.Plugin.dll,  Directory: C:\Program Files (x86)\MySQL\Connector.NET 6.9\Assemblies\v4.5\,  Size: 25088
+Position: 10877889
+File: MySql.MonitorPlugin.dll,  Directory: C:\Program Files (x86)\MySQL\Connector.NET 6.9\Plugins\,  Size: 39424
+Position: 10917313
+File: MySql.Web.NET40,  Directory: C:\Program Files (x86)\MySQL\Connector.NET 6.9\Assemblies\v4.0\,  Size: 134656
+Position: 11051969
+File: MySql.Web.dll,  Directory: C:\Program Files (x86)\MySQL\Connector.NET 6.9\Assemblies\v4.0\,  Size: 169984
+Position: 11221953
+File: MySql.Web.xml,  Directory: C:\Program Files (x86)\MySQL\Connector.NET 6.9\Assemblies\v4.0\,  Size: 95021
+Position: 11316974
+File: MySql.Web.dll,  Directory: C:\Program Files (x86)\MySQL\Connector.NET 6.9\Assemblies\v4.5\,  Size: 170496
+Position: 11487470
+File: MySql.Web.xml,  Directory: C:\Program Files (x86)\MySQL\Connector.NET 6.9\Assemblies\v4.5\,  Size: 95021
+Position: 11582491
+File: CHANGES,  Directory: C:\Program Files (x86)\MySQL\Connector.NET 6.9\Plugins\,  Size: 325
+Position: 11582816
+File: Readme.txt,  Directory: C:\Program Files (x86)\MySQL\Connector.NET 6.9\Plugins\,  Size: 3297
+Position: 11586113
+File: AssemblyInfo.cs,  Directory: C:\Program Files (x86)\MySQL\Connector.NET 6.9\Samples\Pocket PC\Tester\Properties\,  Size: 1260
+Position: 11587373
+File: green.png,  Directory: C:\Program Files (x86)\MySQL\Connector.NET 6.9\Samples\Pocket PC\Tester\Properties\,  Size: 267
+Position: 11587640
+File: red.png,  Directory: C:\Program Files (x86)\MySQL\Connector.NET 6.9\Samples\Pocket PC\Tester\Properties\,  Size: 256
+Position: 11587896
+File: Resources.Designer.cs,  Directory: C:\Program Files (x86)\MySQL\Connector.NET 6.9\Samples\Pocket PC\Tester\Properties\,  Size: 2522
+Position: 11590418
+File: Resources.resx,  Directory: C:\Program Files (x86)\MySQL\Connector.NET 6.9\Samples\Pocket PC\Tester\Properties\,  Size: 5618
+Position: 11596036
+File: white.png,  Directory: C:\Program Files (x86)\MySQL\Connector.NET 6.9\Samples\Pocket PC\Tester\Properties\,  Size: 203
+Position: 11596239
+File: FailDetails.cs,  Directory: C:\Program Files (x86)\MySQL\Connector.NET 6.9\Samples\Pocket PC\Tester\,  Size: 1648
+Position: 11597887
+File: FailDetails.Designer.cs,  Directory: C:\Program Files (x86)\MySQL\Connector.NET 6.9\Samples\Pocket PC\Tester\,  Size: 3976
+Position: 11601863
+File: FailDetails.resx,  Directory: C:\Program Files (x86)\MySQL\Connector.NET 6.9\Samples\Pocket PC\Tester\,  Size: 6314
+Position: 11608177
+File: Form1.cs,  Directory: C:\Program Files (x86)\MySQL\Connector.NET 6.9\Samples\Pocket PC\Tester\,  Size: 6150
+Position: 11614327
+File: Form1.Designer.cs,  Directory: C:\Program Files (x86)\MySQL\Connector.NET 6.9\Samples\Pocket PC\Tester\,  Size: 4973
+Position: 11619300
+File: Form1.resx,  Directory: C:\Program Files (x86)\MySQL\Connector.NET 6.9\Samples\Pocket PC\Tester\,  Size: 8085
+Position: 11627385
+File: MySql.Data.Tests.CF.dll.config,  Directory: C:\Program Files (x86)\MySQL\Connector.NET 6.9\Samples\Pocket PC\Tester\,  Size: 181
+Position: 11627566
+File: Program.cs,  Directory: C:\Program Files (x86)\MySQL\Connector.NET 6.9\Samples\Pocket PC\Tester\,  Size: 374
+Position: 11627940
+File: Tester.csproj,  Directory: C:\Program Files (x86)\MySQL\Connector.NET 6.9\Samples\Pocket PC\Tester\,  Size: 4910
+Position: 11632850
+File: MySql.Web.dll,  Directory: ,  Size: 169984
+Position: 11802834
+File: README,  Directory: C:\Program Files (x86)\MySQL\Connector.NET 6.9\,  Size: 844
+Position: 11803678
+File: Release Notes.txt,  Directory: C:\Program Files (x86)\MySQL\Connector.NET 6.9\,  Size: 369
+Position: 11804047
+File: App.ico,  Directory: C:\Program Files (x86)\MySQL\Connector.NET 6.9\Samples\Async\cs\,  Size: 1078
+Position: 11805125
+File: AssemblyInfo.cs,  Directory: C:\Program Files (x86)\MySQL\Connector.NET 6.9\Samples\Async\cs\,  Size: 2426
+Position: 11807551
+File: Form1.cs,  Directory: C:\Program Files (x86)\MySQL\Connector.NET 6.9\Samples\Async\cs\,  Size: 9254
+Position: 11816805
+File: Form1.res,  Directory: C:\Program Files (x86)\MySQL\Connector.NET 6.9\Samples\Async\cs\,  Size: 15901
+Position: 11832706
+File: Async.csproj,  Directory: C:\Program Files (x86)\MySQL\Connector.NET 6.9\Samples\Async\cs\,  Size: 4220
+Position: 11836926
+File: license-us-secure-hash.html,  Directory: C:\Program Files (x86)\MySQL\Connector.NET 6.9\Documentation\Licenses for Third-Party Components\,  Size: 17507
+Position: 11854433
+File: App.ico,  Directory: C:\Program Files (x86)\MySQL\Connector.NET 6.9\Samples\Table Editor\cs\,  Size: 1078
+Position: 11855511
+File: AssemblyInfo.cs,  Directory: C:\Program Files (x86)\MySQL\Connector.NET 6.9\Samples\Table Editor\cs\,  Size: 3531
+Position: 11859042
+File: Form1.cs,  Directory: C:\Program Files (x86)\MySQL\Connector.NET 6.9\Samples\Table Editor\cs\,  Size: 11098
+Position: 11870140
+File: Form1.resx,  Directory: C:\Program Files (x86)\MySQL\Connector.NET 6.9\Samples\Table Editor\cs\,  Size: 13724
+Position: 11883864
+File: TableEditor.csproj,  Directory: C:\Program Files (x86)\MySQL\Connector.NET 6.9\Samples\Table Editor\cs\,  Size: 4280
+Position: 11888144
+File: TableEditor.build,  Directory: C:\Program Files (x86)\MySQL\Connector.NET 6.9\Samples\Table Editor\cs\,  Size: 1099
+Position: 11889243
+File: AssemblyInfo.vb,  Directory: C:\Program Files (x86)\MySQL\Connector.NET 6.9\Samples\Table Editor\vb\,  Size: 1957
+Position: 11891200
+File: Form1.vb,  Directory: C:\Program Files (x86)\MySQL\Connector.NET 6.9\Samples\Table Editor\vb\,  Size: 11404
+Position: 11902604
+File: Form1.resx,  Directory: C:\Program Files (x86)\MySQL\Connector.NET 6.9\Samples\Table Editor\vb\,  Size: 13751
+Position: 11916355
+File: TableEditor.vbproj,  Directory: C:\Program Files (x86)\MySQL\Connector.NET 6.9\Samples\Table Editor\vb\,  Size: 4507
+Position: 11920862
+File: TableEditor.build,  Directory: C:\Program Files (x86)\MySQL\Connector.NET 6.9\Samples\Table Editor\vb\,  Size: 1314
+Position: 11922176
+File: license-zlib.html,  Directory: C:\Program Files (x86)\MySQL\Connector.NET 6.9\Documentation\Licenses for Third-Party Components\,  Size: 17171
+Position: 11939347
+File: license-zlib-net.html,  Directory: C:\Program Files (x86)\MySQL\Connector.NET 6.9\Documentation\Licenses for Third-Party Components\,  Size: 17171
+Position: 11956518
+Action 10:36:03: ManagedDataInstall. Registering data provider in machine.config
+Action 10:36:05: ManagedWebInstall. Registering web providers in machine.config
+Action 10:36:06: CreateShortcuts. Creating shortcuts
+Shortcut: ChangeLogIcon
+DoStep
+Shortcut: upfn1-0t|Documentation
+DoStep
+Shortcut: vaitcdd6|ChangeLog
+DoStep
+Shortcut: _rq6aex9|Release Notes
+DoStep
+Action 10:36:07: WriteRegistryValues. Writing system registry values
+Step: 13200
+Position: 11956518
+Key: \Software\MySQL AB, Name: Default, Value: true
+DoStep
+Position: 11956518
+Key: \Software\MySQL AB, Name: , Value: 
+DoStep
+Position: 11956518
+Key: \Software\MySQL AB\MySQL Connector/Net, Name: Version, Value: 6.9.9
+DoStep
+Position: 11956518
+Key: \Software\MySQL AB\MySQL Connector/Net, Name: Location, Value: C:\Program Files (x86)\MySQL\Connector.NET 6.9\
+DoStep
+Position: 11956518
+Key: \SOFTWARE\Microsoft\.NETFramework\v4.0.30319\AssemblyFoldersEx\MySQL Connector Net 6.9.9 v4.0, Name: , Value: C:\Program Files (x86)\MySQL\Connector.NET 6.9\Assemblies\v4.0\
+DoStep
+Position: 11956518
+Key: \SOFTWARE\Microsoft\.NETFramework\v4.0.30319\AssemblyFoldersEx\MySQL Connector Net 6.9.9 v4.0, Name: , Value: 
+DoStep
+Position: 11956518
+Key: \SOFTWARE\Microsoft\.NETFramework\v4.5.50709\AssemblyFoldersEx\MySQL Connector Net 6.9.9 v4.5, Name: , Value: C:\Program Files (x86)\MySQL\Connector.NET 6.9\Assemblies\v4.5\
+DoStep
+Position: 11956518
+Key: \SOFTWARE\Microsoft\.NETFramework\v4.5.50709\AssemblyFoldersEx\MySQL Connector Net 6.9.9 v4.5, Name: , Value: 
+DoStep
+Position: 11956518
+Key: \SYSTEM\CurrentControlSet\Services\.NET Data Provider for MySQL\Linkage, Name: Export, Value: .NET Data Provider for MySQL
+DoStep
+Position: 11956518
+Key: \SYSTEM\CurrentControlSet\Services\.NET Data Provider for MySQL\Performance, Name: Library, Value: netfxperf.dll
+DoStep
+Position: 11956518
+Key: \SYSTEM\CurrentControlSet\Services\.NET Data Provider for MySQL\Performance, Name: Open, Value: OpenPerformanceData
+DoStep
+Position: 11956518
+Key: \SYSTEM\CurrentControlSet\Services\.NET Data Provider for MySQL\Performance, Name: Collect, Value: CollectPerformanceData
+DoStep
+Position: 11956518
+Key: \SYSTEM\CurrentControlSet\Services\.NET Data Provider for MySQL\Performance, Name: Close, Value: ClosePerformanceData
+DoStep
+Position: 11956518
+Key: \SYSTEM\CurrentControlSet\Services\.NET Data Provider for MySQL\Performance, Name: IsMultiInstance, Value: #0
+DoStep
+Position: 11956518
+Key: \SYSTEM\CurrentControlSet\Services\.NET Data Provider for MySQL\Performance, Name: Counter Names, Value: 
+DoStep
+Position: 11956518
+Key: \SYSTEM\CurrentControlSet\Services\.NET Data Provider for MySQL\Performance, Name: Counter Types, Value: 
+DoStep
+Action 10:36:07: RollbackRegisterPerfCounterData. 
+Action 10:36:07: RegisterPerfCounterData. 
+Action 10:36:07: RegisterProduct. Registering product
+Position: 20386086
+{5189E14A-1BF7-491C-9925-EBCA572D6768}
+DoStep
+Action 10:36:07: MsiPublishAssemblies. Publishing assembly information
+Application Context:Global, Assembly Name:MySql.Data,version="6.9.9.0",culture="neutral",publicKeyToken="C5687FC88969C44D",processorArchitecture="MSIL"
+DoStep
+Application Context:Global, Assembly Name:MySql.Web,version="6.9.9.0",culture="neutral",publicKeyToken="C5687FC88969C44D",processorArchitecture="MSIL"
+DoStep
+Application Context:Global, Assembly Name:MySql.Data.Entity,version="6.9.9.0",culture="neutral",publicKeyToken="C5687FC88969C44D",processorArchitecture="MSIL"
+DoStep
+Action 10:36:07: PublishFeatures. Publishing Product Features
+Feature: Plugins.EMTrace
+DoStep
+Feature: EntityFramework
+DoStep
+Feature: Samples
+DoStep
+Feature: Plugins
+DoStep
+Feature: DocsFeature
+DoStep
+Feature: Core.Feature
+DoStep
+Feature: WebProviders
+DoStep
+Feature: CSSamples
+DoStep
+Feature: VBSamples
+DoStep
+Feature: Plugins.Fabric
+DoStep
+Action 10:36:08: PublishProduct. Publishing product information
+Action 10:36:11: RollbackCleanup. Removing backup files
+1: MySQL Connector Net 6.9.9 2: {5189E14A-1BF7-491C-9925-EBCA572D6768} 3: 1 
+Action 10:36:12: INSTALL. 
+1: MySQL Connector/C 6.1 2: {5E43D423-9FB6-427D-A7C1-9FEAFE5051B3} 
+Action 10:36:12: FindRelatedProducts. Searching for related applications
+Action 10:36:12: AppSearch. Searching for installed applications
+Action 10:36:12: LaunchConditions. Evaluating launch conditions
+Action 10:36:12: ValidateProductID. 
+Action 10:36:12: CostInitialize. Computing space requirements
+Action 10:36:12: FileCost. Computing space requirements
+Action 10:36:12: CostFinalize. Computing space requirements
+Action 10:36:12: MigrateFeatureStates. Migrating feature states from related applications
+Action 10:36:12: InstallValidate. Validating install
+Min: 0 Max: 555
+Position: 25
+Position: 50
+Position: 75
+Position: 100
+Position: 125
+Position: 150
+Position: 175
+Position: 200
+Position: 225
+Position: 250
+Position: 275
+Position: 300
+Position: 300
+Position: 300
+Action 10:36:12: SaveTargetDir. 
+Action 10:36:12: InstallInitialize. 
+Action 10:36:13: RemoveExistingProducts. Removing applications
+Action 10:36:13: ProcessComponents. Updating component registration
+Position: 300
+Action 10:36:13: GenerateScript. Generating script operations for action:
+Position: 301
+Position: 302
+Updating component registration
+DoStep
+Position: 303
+Position: 304
+Position: 305
+Position: 306
+Position: 307
+Position: 308
+Position: 309
+Position: 310
+Position: 311
+Position: 312
+Position: 313
+Position: 314
+Position: 315
+Position: 316
+Action 10:36:13: UnpublishFeatures. Unpublishing Product Features
+Action 10:36:13: RemoveFiles. Removing files
+Action 10:36:13: InstallFiles. Copying new files
+File: Copying new files,  Directory: ,  Size: 
+DoStep
+Position: 317
+Position: 318
+Position: 319
+Position: 320
+Position: 321
+Position: 322
+Position: 323
+Position: 324
+Position: 325
+Position: 326
+Position: 327
+Position: 328
+Position: 329
+Position: 330
+Position: 331
+Position: 332
+Position: 333
+Position: 334
+Position: 335
+Position: 336
+Position: 337
+Position: 338
+Position: 339
+Position: 340
+Position: 341
+Position: 342
+Position: 343
+Position: 344
+Position: 345
+Position: 346
+Position: 347
+Position: 348
+Position: 349
+Position: 350
+Position: 351
+Position: 352
+Position: 353
+Position: 354
+Position: 355
+Position: 356
+Position: 357
+Position: 358
+Position: 359
+Position: 360
+Position: 361
+Position: 362
+Position: 363
+Position: 364
+Position: 365
+Position: 366
+Position: 367
+Position: 368
+Position: 369
+Position: 370
+Position: 371
+Position: 372
+Position: 373
+Position: 374
+Position: 375
+Position: 376
+Position: 377
+Position: 378
+Position: 379
+Position: 380
+Position: 381
+Position: 382
+Position: 383
+Position: 384
+Position: 385
+Position: 386
+Position: 387
+Position: 388
+Position: 389
+Position: 390
+Position: 391
+Position: 392
+Position: 393
+Position: 394
+Position: 395
+Position: 396
+Position: 397
+Position: 398
+Position: 399
+Position: 400
+Position: 401
+Position: 402
+Position: 403
+Position: 404
+Position: 405
+Position: 406
+Position: 407
+Position: 408
+Position: 409
+Position: 410
+Position: 411
+Position: 412
+Position: 413
+Position: 414
+Position: 415
+Position: 416
+Position: 417
+Position: 418
+Action 10:36:14: RegisterUser. Registering user
+Action 10:36:14: RegisterProduct. Registering product
+Registering product
+DoStep
+Position: 419
+Position: 420
+Position: 421
+Position: 422
+Position: 423
+Action 10:36:14: PublishFeatures. Publishing Product Features
+Feature: Publishing Product Features
+DoStep
+Position: 424
+Position: 425
+Position: 426
+Position: 427
+Position: 428
+Position: 429
+Action 10:36:14: PublishProduct. Publishing product information
+Position: 430
+Position: 431
+Position: 432
+Position: 433
+Position: 434
+Position: 435
+Position: 436
+Position: 437
+Position: 438
+Action 10:36:14: InstallFinalize. 
+Min: 0 Max: 80924487
+Position: 80924487
+Action 10:36:14: ProcessComponents. Updating component registration
+Step: 24000
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Action 10:36:14: InstallFiles. Copying new files
+File: my_print_defaults.exe,  Directory: C:\Program Files\MySQL\MySQL Connector.C 6.1\bin\,  Size: 5769216
+Position: 5769216
+File: perror.exe,  Directory: C:\Program Files\MySQL\MySQL Connector.C 6.1\bin\,  Size: 5918208
+Position: 11687424
+File: ChangeLog,  Directory: C:\Program Files\MySQL\MySQL Connector.C 6.1\docs\,  Size: 21977
+Position: 11709401
+File: INFO_BIN,  Directory: C:\Program Files\MySQL\MySQL Connector.C 6.1\docs\,  Size: 2377
+Position: 11711778
+File: INFO_SRC,  Directory: C:\Program Files\MySQL\MySQL Connector.C 6.1\docs\,  Size: 209
+Position: 11711987
+File: big_endian.h,  Directory: C:\Program Files\MySQL\MySQL Connector.C 6.1\include\,  Size: 3053
+Position: 11715040
+File: byte_order_generic.h,  Directory: C:\Program Files\MySQL\MySQL Connector.C 6.1\include\,  Size: 1954
+Position: 11716994
+File: byte_order_generic_x86.h,  Directory: C:\Program Files\MySQL\MySQL Connector.C 6.1\include\,  Size: 903
+Position: 11717897
+File: decimal.h,  Directory: C:\Program Files\MySQL\MySQL Connector.C 6.1\include\,  Size: 4593
+Position: 11722490
+File: errmsg.h,  Directory: C:\Program Files\MySQL\MySQL Connector.C 6.1\include\,  Size: 3697
+Position: 11726187
+File: keycache.h,  Directory: C:\Program Files\MySQL\MySQL Connector.C 6.1\include\,  Size: 6518
+Position: 11732705
+File: little_endian.h,  Directory: C:\Program Files\MySQL\MySQL Connector.C 6.1\include\,  Size: 2533
+Position: 11735238
+File: m_ctype.h,  Directory: C:\Program Files\MySQL\MySQL Connector.C 6.1\include\,  Size: 34158
+Position: 11769396
+File: m_string.h,  Directory: C:\Program Files\MySQL\MySQL Connector.C 6.1\include\,  Size: 10049
+Position: 11779445
+File: my_alloc.h,  Directory: C:\Program Files\MySQL\MySQL Connector.C 6.1\include\,  Size: 1409
+Position: 11780854
+File: my_byteorder.h,  Directory: C:\Program Files\MySQL\MySQL Connector.C 6.1\include\,  Size: 4888
+Position: 11785742
+File: my_compiler.h,  Directory: C:\Program Files\MySQL\MySQL Connector.C 6.1\include\,  Size: 4425
+Position: 11790167
+File: my_config.h,  Directory: C:\Program Files\MySQL\MySQL Connector.C 6.1\include\,  Size: 11155
+Position: 11801322
+File: my_dbug.h,  Directory: C:\Program Files\MySQL\MySQL Connector.C 6.1\include\,  Size: 8792
+Position: 11810114
+File: my_dir.h,  Directory: C:\Program Files\MySQL\MySQL Connector.C 6.1\include\,  Size: 2412
+Position: 11812526
+File: my_getopt.h,  Directory: C:\Program Files\MySQL\MySQL Connector.C 6.1\include\,  Size: 5853
+Position: 11818379
+File: my_global.h,  Directory: C:\Program Files\MySQL\MySQL Connector.C 6.1\include\,  Size: 20469
+Position: 11838848
+File: my_list.h,  Directory: C:\Program Files\MySQL\MySQL Connector.C 6.1\include\,  Size: 906
+Position: 11839754
+File: my_pthread.h,  Directory: C:\Program Files\MySQL\MySQL Connector.C 6.1\include\,  Size: 6190
+Position: 11845944
+File: my_sys.h,  Directory: C:\Program Files\MySQL\MySQL Connector.C 6.1\include\,  Size: 36961
+Position: 11882905
+File: my_xml.h,  Directory: C:\Program Files\MySQL\MySQL Connector.C 6.1\include\,  Size: 2216
+Position: 11885121
+File: client_authentication.h,  Directory: C:\Program Files\MySQL\MySQL Connector.C 6.1\include\mysql\,  Size: 477
+Position: 11885598
+File: client_plugin.h,  Directory: C:\Program Files\MySQL\MySQL Connector.C 6.1\include\mysql\,  Size: 5866
+Position: 11891464
+File: client_plugin.h.pp,  Directory: C:\Program Files\MySQL\MySQL Connector.C 6.1\include\mysql\,  Size: 1986
+Position: 11893450
+File: get_password.h,  Directory: C:\Program Files\MySQL\MySQL Connector.C 6.1\include\mysql\,  Size: 598
+Position: 11894048
+File: mysql.h,  Directory: C:\Program Files\MySQL\MySQL Connector.C 6.1\include\,  Size: 28536
+Position: 11922584
+File: plugin_auth_common.h,  Directory: C:\Program Files\MySQL\MySQL Connector.C 6.1\include\mysql\,  Size: 4082
+Position: 11926666
+File: plugin_trace.h,  Directory: C:\Program Files\MySQL\MySQL Connector.C 6.1\include\mysql\,  Size: 11550
+Position: 11938216
+File: mysql_file.h,  Directory: C:\Program Files\MySQL\MySQL Connector.C 6.1\include\mysql\psi\,  Size: 38404
+Position: 11976620
+File: mysql_idle.h,  Directory: C:\Program Files\MySQL\MySQL Connector.C 6.1\include\mysql\psi\,  Size: 2005
+Position: 11978625
+File: mysql_mdl.h,  Directory: C:\Program Files\MySQL\MySQL Connector.C 6.1\include\mysql\psi\,  Size: 2722
+Position: 11981347
+File: mysql_memory.h,  Directory: C:\Program Files\MySQL\MySQL Connector.C 6.1\include\mysql\psi\,  Size: 1097
+Position: 11982444
+File: mysql_ps.h,  Directory: C:\Program Files\MySQL\MySQL Connector.C 6.1\include\mysql\psi\,  Size: 2559
+Position: 11985003
+File: mysql_socket.h,  Directory: C:\Program Files\MySQL\MySQL Connector.C 6.1\include\mysql\psi\,  Size: 32658
+Position: 12017661
+File: mysql_sp.h,  Directory: C:\Program Files\MySQL\MySQL Connector.C 6.1\include\mysql\psi\,  Size: 2247
+Position: 12019908
+File: mysql_stage.h,  Directory: C:\Program Files\MySQL\MySQL Connector.C 6.1\include\mysql\psi\,  Size: 2956
+Position: 12022864
+File: mysql_statement.h,  Directory: C:\Program Files\MySQL\MySQL Connector.C 6.1\include\mysql\psi\,  Size: 5958
+Position: 12028822
+File: mysql_table.h,  Directory: C:\Program Files\MySQL\MySQL Connector.C 6.1\include\mysql\psi\,  Size: 3456
+Position: 12032278
+File: mysql_thread.h,  Directory: C:\Program Files\MySQL\MySQL Connector.C 6.1\include\mysql\psi\,  Size: 32515
+Position: 12064793
+File: mysql_transaction.h,  Directory: C:\Program Files\MySQL\MySQL Connector.C 6.1\include\mysql\psi\,  Size: 6238
+Position: 12071031
+File: psi.h,  Directory: C:\Program Files\MySQL\MySQL Connector.C 6.1\include\mysql\psi\,  Size: 83991
+Position: 12155022
+File: psi_base.h,  Directory: C:\Program Files\MySQL\MySQL Connector.C 6.1\include\mysql\psi\,  Size: 2527
+Position: 12157549
+File: psi_memory.h,  Directory: C:\Program Files\MySQL\MySQL Connector.C 6.1\include\mysql\psi\,  Size: 2959
+Position: 12160508
+File: service_my_snprintf.h,  Directory: C:\Program Files\MySQL\MySQL Connector.C 6.1\include\mysql\,  Size: 2761
+Position: 12163269
+File: service_mysql_alloc.h,  Directory: C:\Program Files\MySQL\MySQL Connector.C 6.1\include\mysql\,  Size: 2005
+Position: 12165274
+File: mysql_com.h,  Directory: C:\Program Files\MySQL\MySQL Connector.C 6.1\include\,  Size: 24799
+Position: 12190073
+File: mysql_com_server.h,  Directory: C:\Program Files\MySQL\MySQL Connector.C 6.1\include\,  Size: 713
+Position: 12190786
+File: mysql_embed.h,  Directory: C:\Program Files\MySQL\MySQL Connector.C 6.1\include\,  Size: 542
+Position: 12191328
+File: mysql_time.h,  Directory: C:\Program Files\MySQL\MySQL Connector.C 6.1\include\,  Size: 1588
+Position: 12192916
+File: mysql_version.h,  Directory: C:\Program Files\MySQL\MySQL Connector.C 6.1\include\,  Size: 983
+Position: 12193899
+File: mysqld_ername.h,  Directory: C:\Program Files\MySQL\MySQL Connector.C 6.1\include\,  Size: 106013
+Position: 12299912
+File: mysqld_error.h,  Directory: C:\Program Files\MySQL\MySQL Connector.C 6.1\include\,  Size: 39313
+Position: 12339225
+File: sql_common.h,  Directory: C:\Program Files\MySQL\MySQL Connector.C 6.1\include\,  Size: 6967
+Position: 12346192
+File: sql_state.h,  Directory: C:\Program Files\MySQL\MySQL Connector.C 6.1\include\,  Size: 13918
+Position: 12360110
+File: sslopt-case.h,  Directory: C:\Program Files\MySQL\MySQL Connector.C 6.1\include\,  Size: 982
+Position: 12361092
+File: sslopt-longopts.h,  Directory: C:\Program Files\MySQL\MySQL Connector.C 6.1\include\,  Size: 1804
+Position: 12362896
+File: sslopt-vars.h,  Directory: C:\Program Files\MySQL\MySQL Connector.C 6.1\include\,  Size: 1368
+Position: 12364264
+File: typelib.h,  Directory: C:\Program Files\MySQL\MySQL Connector.C 6.1\include\,  Size: 1678
+Position: 12365942
+File: libmysql.dll,  Directory: C:\Program Files\MySQL\MySQL Connector.C 6.1\lib\,  Size: 6781952
+Position: 19147894
+File: libmysql.lib,  Directory: C:\Program Files\MySQL\MySQL Connector.C 6.1\lib\,  Size: 26832
+Position: 19174726
+File: mysqlclient.lib,  Directory: C:\Program Files\MySQL\MySQL Connector.C 6.1\lib\vs10\,  Size: 12893854
+Position: 32068580
+File: mysqlclient.lib,  Directory: C:\Program Files\MySQL\MySQL Connector.C 6.1\lib\vs11\,  Size: 14943280
+Position: 47011860
+File: mysqlclient.lib,  Directory: C:\Program Files\MySQL\MySQL Connector.C 6.1\lib\vs12\,  Size: 15077506
+Position: 62089366
+File: LICENSE.mysql,  Directory: C:\Program Files\MySQL\MySQL Connector.C 6.1\,  Size: 2738
+Position: 62092104
+File: README,  Directory: C:\Program Files\MySQL\MySQL Connector.C 6.1\,  Size: 29439
+Position: 62121543
+Action 10:36:15: RegisterProduct. Registering product
+Position: 80636487
+{5E43D423-9FB6-427D-A7C1-9FEAFE5051B3}
+DoStep
+Action 10:36:15: PublishFeatures. Publishing Product Features
+Feature: SharedLibraries
+DoStep
+Feature: DEVEL
+DoStep
+Feature: DOCUMENTATION
+DoStep
+Feature: Readme
+DoStep
+Feature: ALWAYSINSTALL
+DoStep
+Action 10:36:15: PublishProduct. Publishing product information
+Action 10:36:16: RollbackCleanup. Removing backup files
+1: MySQL Connector/C 6.1 2: {5E43D423-9FB6-427D-A7C1-9FEAFE5051B3} 3: 1 
+Action 10:36:19: INSTALL. 
+1: MySQL Documents 5.7 2: {479DF24E-A7EA-4769-8942-4F5F224AE259} 
+Action 10:36:19: FindRelatedProducts. Searching for related applications
+Action 10:36:19: ValidateProductID. 
+Action 10:36:19: CostInitialize. Computing space requirements
+Action 10:36:19: FileCost. Computing space requirements
+Action 10:36:19: CostFinalize. Computing space requirements
+Action 10:36:19: InstallValidate. Validating install
+Min: 0 Max: 87
+Position: 25
+Position: 50
+Position: 50
+Action 10:36:19: InstallInitialize. 
+Action 10:36:19: RemoveExistingProducts. Removing applications
+Action 10:36:19: ProcessComponents. Updating component registration
+Position: 50
+Action 10:36:20: GenerateScript. Generating script operations for action:
+Position: 51
+Position: 52
+Updating component registration
+DoStep
+Position: 53
+Position: 54
+Position: 55
+Position: 56
+Action 10:36:20: UnpublishFeatures. Unpublishing Product Features
+Action 10:36:20: RemoveFiles. Removing files
+Action 10:36:20: InstallFiles. Copying new files
+File: Copying new files,  Directory: ,  Size: 
+DoStep
+Position: 57
+Position: 58
+Position: 59
+Position: 60
+Position: 61
+Position: 62
+Position: 63
+Position: 64
+Action 10:36:20: RegisterUser. Registering user
+Action 10:36:20: RegisterProduct. Registering product
+Registering product
+DoStep
+Position: 65
+Position: 66
+Position: 67
+Position: 68
+Position: 69
+Action 10:36:20: PublishFeatures. Publishing Product Features
+Feature: Publishing Product Features
+DoStep
+Position: 70
+Position: 71
+Position: 72
+Action 10:36:20: PublishProduct. Publishing product information
+
+DoStep
+Position: 73
+Position: 74
+Position: 75
+Position: 76
+Position: 77
+Position: 78
+Position: 79
+Position: 80
+Action 10:36:20: InstallFinalize. 
+Min: 0 Max: 112876442
+Position: 112876442
+Action 10:36:20: ProcessComponents. Updating component registration
+Step: 24000
+Position: 0
+Position: 0
+Action 10:36:20: InstallFiles. Copying new files
+File: refman-5.7-en.pdf,  Directory: C:\Program Files (x86)\MySQL\MySQL Documentation 5.7\,  Size: 37151112
+Position: 37151112
+File: refman-5.7-en.a4.pdf,  Directory: C:\Program Files (x86)\MySQL\MySQL Documentation 5.7\,  Size: 37170834
+Position: 74321946
+Action 10:36:20: RegisterProduct. Registering product
+Position: 112828442
+{479DF24E-A7EA-4769-8942-4F5F224AE259}
+DoStep
+Action 10:36:20: PublishFeatures. Publishing Product Features
+Feature: ServerA4Feature
+DoStep
+Feature: ServerFeature
+DoStep
+Action 10:36:20: PublishProduct. Publishing product information
+Action 10:36:21: RollbackCleanup. Removing backup files
+1: MySQL Documents 5.7 2: {479DF24E-A7EA-4769-8942-4F5F224AE259} 3: 1 
+Action 10:36:23: INSTALL. 
+1: MySQL Examples and Samples 5.7 2: {E24C7D05-11E6-4D71-B6AA-56F67605E892} 
+Action 10:36:23: FindRelatedProducts. Searching for related applications
+Action 10:36:23: ValidateProductID. 
+Action 10:36:23: CostInitialize. Computing space requirements
+Action 10:36:23: FileCost. Computing space requirements
+Action 10:36:23: CostFinalize. Computing space requirements
+Action 10:36:23: InstallValidate. Validating install
+Min: 0 Max: 205
+Position: 25
+Position: 50
+Position: 75
+Position: 100
+Position: 125
+Position: 150
+Position: 150
+Action 10:36:23: InstallInitialize. 
+Action 10:36:23: RemoveExistingProducts. Removing applications
+Action 10:36:23: ProcessComponents. Updating component registration
+Position: 150
+Action 10:36:24: GenerateScript. Generating script operations for action:
+Position: 151
+Position: 152
+Updating component registration
+DoStep
+Position: 153
+Position: 154
+Position: 155
+Position: 156
+Action 10:36:24: UnpublishFeatures. Unpublishing Product Features
+Action 10:36:24: RemoveRegistryValues. Removing system registry values
+Action 10:36:24: RemoveFiles. Removing files
+Action 10:36:24: InstallFiles. Copying new files
+File: Copying new files,  Directory: ,  Size: 
+DoStep
+Position: 157
+Position: 158
+Position: 159
+Position: 160
+Position: 161
+Position: 162
+Position: 163
+Position: 164
+Position: 165
+Position: 166
+Position: 167
+Position: 168
+Action 10:36:24: WriteRegistryValues. Writing system registry values
+Key: Writing system registry values, Name: , Value: 
+DoStep
+Position: 169
+Position: 170
+Position: 171
+Position: 172
+Position: 173
+Position: 174
+Position: 175
+Action 10:36:24: RegisterUser. Registering user
+Action 10:36:24: RegisterProduct. Registering product
+Registering product
+DoStep
+Position: 176
+Position: 177
+Position: 178
+Position: 179
+Position: 180
+Action 10:36:24: PublishFeatures. Publishing Product Features
+Feature: Publishing Product Features
+DoStep
+Position: 181
+Position: 182
+Action 10:36:24: PublishProduct. Publishing product information
+
+DoStep
+Position: 183
+Position: 184
+Position: 185
+Position: 186
+Position: 187
+Position: 188
+Position: 189
+Position: 190
+Action 10:36:24: InstallFinalize. 
+Min: 0 Max: 4825712
+Position: 4825712
+Action 10:36:24: ProcessComponents. Updating component registration
+Step: 24000
+Position: 0
+Position: 0
+Action 10:36:24: InstallFiles. Copying new files
+File: sakila.mwb,  Directory: C:\Program Files (x86)\MySQL\Samples and Examples 5.7\Sample Databases\Sakila\,  Size: 50019
+Position: 50019
+File: sakila-data.sql,  Directory: C:\Program Files (x86)\MySQL\Samples and Examples 5.7\Sample Databases\Sakila\,  Size: 3398148
+Position: 3448167
+File: sakila-schema.sql,  Directory: C:\Program Files (x86)\MySQL\Samples and Examples 5.7\Sample Databases\Sakila\,  Size: 23353
+Position: 3471520
+File: world-schema.sql,  Directory: C:\Program Files (x86)\MySQL\Samples and Examples 5.7\Sample Databases\World\,  Size: 397328
+Position: 3868848
+Action 10:36:24: WriteRegistryValues. Writing system registry values
+Step: 13200
+Position: 3868848
+Key: \Software\MySQL AB\MySQL Examples and Samples 5.7, Name: Location, Value: C:\Program Files (x86)\MySQL\Samples and Examples 5.7\
+DoStep
+Position: 3868848
+Key: \Software\MySQL AB\MySQL Examples and Samples 5.7, Name: Sample Databases, Value: C:\Program Files (x86)\MySQL\Samples and Examples 5.7\Sample Databases\
+DoStep
+Position: 3868848
+Key: \Software\MySQL AB\MySQL Examples and Samples 5.7, Name: , Value: 
+DoStep
+Position: 3868848
+Key: \Software\MySQL AB\MySQL Examples and Samples 5.7, Name: , Value: 
+DoStep
+Action 10:36:24: RegisterProduct. Registering product
+Position: 4724912
+{E24C7D05-11E6-4D71-B6AA-56F67605E892}
+DoStep
+Action 10:36:24: PublishFeatures. Publishing Product Features
+Feature: SampleDB
+DoStep
+Action 10:36:24: PublishProduct. Publishing product information
+Action 10:36:24: RollbackCleanup. Removing backup files
+1: MySQL Examples and Samples 5.7 2: {E24C7D05-11E6-4D71-B6AA-56F67605E892} 3: 1 
